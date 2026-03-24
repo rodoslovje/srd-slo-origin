@@ -85,7 +85,7 @@
     },
     {
         "kit": "234211",
-        "group": "T (partial results; upgrade to full-mtdna test recommended)",
+        "group": "T",
         "haplogroup": "T",
         "haplotype": "",
         "surname": "Zupan",
@@ -385,7 +385,7 @@
     },
     {
         "kit": "424951",
-        "group": "K1 (&#214;tzi&#39;s)",
+        "group": "K1",
         "haplogroup": "K1a2i",
         "haplotype": "Private",
         "surname": "Goršič Hawlina",
@@ -2353,7 +2353,7 @@
     },
     {
         "kit": "B917816",
-        "group": "K1 (&#214;tzi&#39;s)",
+        "group": "K1",
         "haplogroup": "K1a4w1+151",
         "haplotype": "F4714632",
         "surname": "Petric",
@@ -3013,7 +3013,7 @@
     },
     {
         "kit": "BP62101",
-        "group": "K1 (&#214;tzi&#39;s)",
+        "group": "K1",
         "haplogroup": "K1b2a1j",
         "haplotype": "Private",
         "surname": "Trzan",
@@ -5965,7 +5965,7 @@
     },
     {
         "kit": "MI21432",
-        "group": "K1 (&#214;tzi&#39;s)",
+        "group": "K1",
         "haplogroup": "K1a4c1h1",
         "haplotype": "Private",
         "surname": "Babij",
