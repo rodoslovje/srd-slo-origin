@@ -1024,7 +1024,7 @@
         "test": "Family Finder",
         "group": "G",
         "haplogroup": "G-CTS4803",
-        "surname": "Jr.",
+        "surname": "Koser",
         "ancestor": "",
         "location": "",
         "country": "",
@@ -2104,7 +2104,7 @@
         "test": "",
         "group": "",
         "haplogroup": "-",
-        "surname": "Jr.",
+        "surname": "Gasser",
         "ancestor": "Mihael Gasser, b. 1885 and d. 1978",
         "location": "4229 Sorica, Slovenia",
         "country": "si",
@@ -7600,7 +7600,7 @@
         "test": "Big Y-700",
         "group": "R1b",
         "haplogroup": "R-A7207",
-        "surname": "Jr.",
+        "surname": "Alley",
         "ancestor": "Pleasant May Alley -- b. 1819 TN &amp; d. 1871 KY",
         "location": "",
         "country": "us",
@@ -7732,7 +7732,7 @@
         "test": "",
         "group": "R1a",
         "haplogroup": "R-Y2608",
-        "surname": "Jr.",
+        "surname": "Plautz",
         "ancestor": "Janez Plavec, b. 1720 and d. 1788",
         "location": "",
         "country": "si",
@@ -7832,7 +7832,7 @@
         "ancestor": "",
         "location": "",
         "country": "",
-        "latitude": "",
-        "longitude": ""
+        "latitude": "0",
+        "longitude": "0"
     }
 ]
