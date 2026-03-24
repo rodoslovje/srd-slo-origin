@@ -1,0 +1,3368 @@
+[
+    {
+        "haplogroup": "L'AA'AB",
+        "parent": "",
+        "note": "Denisovan divergence",
+        "age": -725000
+    },
+    {
+        "haplogroup": "L'AA",
+        "parent": "L'AA'AB",
+        "note": "Neanderthal divergence",
+        "age": -379000
+    },
+    {
+        "haplogroup": "L",
+        "parent": "L'AA",
+        "note": "mt-Eve",
+        "age": -140974
+    },
+    {
+        "haplogroup": "L1\"7",
+        "parent": "L",
+        "note": "",
+        "age": -125073
+    },
+    {
+        "haplogroup": "L0",
+        "parent": "L",
+        "note": "",
+        "age": -118906
+    },
+    {
+        "haplogroup": "L2\"7",
+        "parent": "L1\"7",
+        "note": "",
+        "age": -114894
+    },
+    {
+        "haplogroup": "L0a\"m^",
+        "parent": "L0",
+        "note": "",
+        "age": -111896
+    },
+    {
+        "haplogroup": "L1",
+        "parent": "L1\"7",
+        "note": "",
+        "age": -109850
+    },
+    {
+        "haplogroup": "L5'7",
+        "parent": "L2\"7",
+        "note": "",
+        "age": -104677
+    },
+    {
+        "haplogroup": "L2'3'4'6",
+        "parent": "L2\"7",
+        "note": "",
+        "age": -96845
+    },
+    {
+        "haplogroup": "L5",
+        "parent": "L5'7",
+        "note": "",
+        "age": -96458
+    },
+    {
+        "haplogroup": "L0a\"m",
+        "parent": "L0a\"m^",
+        "note": "",
+        "age": -95158
+    },
+    {
+        "haplogroup": "L3'4'6",
+        "parent": "L2'3'4'6",
+        "note": "",
+        "age": -90141
+    },
+    {
+        "haplogroup": "L2",
+        "parent": "L2'3'4'6",
+        "note": "",
+        "age": -84129
+    },
+    {
+        "haplogroup": "L0a'b'g'l'm",
+        "parent": "L0a\"m",
+        "note": "",
+        "age": -76632
+    },
+    {
+        "haplogroup": "L3'4",
+        "parent": "L3'4'6",
+        "note": "",
+        "age": -74172
+    },
+    {
+        "haplogroup": "L0a'g'l'm",
+        "parent": "L0a'b'g'l'm",
+        "note": "",
+        "age": -69036
+    },
+    {
+        "haplogroup": "L4",
+        "parent": "L3'4",
+        "note": "",
+        "age": -68309
+    },
+    {
+        "haplogroup": "L3",
+        "parent": "L3'4",
+        "note": "",
+        "age": -61065
+    },
+    {
+        "haplogroup": "L3h'M'N",
+        "parent": "L3",
+        "note": "",
+        "age": -61035
+    },
+    {
+        "haplogroup": "N",
+        "parent": "L3h'M'N",
+        "note": "",
+        "age": -53086
+    },
+    {
+        "haplogroup": "N+8701",
+        "parent": "N",
+        "note": "",
+        "age": -52807
+    },
+    {
+        "haplogroup": "N8'23'30",
+        "parent": "N+8701",
+        "note": "",
+        "age": -52777
+    },
+    {
+        "haplogroup": "N30",
+        "parent": "N8'23'30",
+        "note": "",
+        "age": -52747
+    },
+    {
+        "haplogroup": "R",
+        "parent": "N30",
+        "note": "",
+        "age": -52717
+    },
+    {
+        "haplogroup": "R+10398",
+        "parent": "R",
+        "note": "",
+        "age": -52687
+    },
+    {
+        "haplogroup": "R24'34'B",
+        "parent": "R+10398",
+        "note": "",
+        "age": -52657
+    },
+    {
+        "haplogroup": "R14'U",
+        "parent": "R+10398",
+        "note": "",
+        "age": -52137
+    },
+    {
+        "haplogroup": "P",
+        "parent": "R+10398",
+        "note": "",
+        "age": -50961
+    },
+    {
+        "haplogroup": "N1'5",
+        "parent": "N+8701",
+        "note": "",
+        "age": -50773
+    },
+    {
+        "haplogroup": "R2'JT",
+        "parent": "R+10398",
+        "note": "",
+        "age": -50695
+    },
+    {
+        "haplogroup": "M",
+        "parent": "L3h'M'N",
+        "note": "",
+        "age": -48096
+    },
+    {
+        "haplogroup": "S",
+        "parent": "N+8701",
+        "note": "",
+        "age": -47532
+    },
+    {
+        "haplogroup": "L0a",
+        "parent": "L0a'g'l'm",
+        "note": "",
+        "age": -46909
+    },
+    {
+        "haplogroup": "B",
+        "parent": "R24'34'B",
+        "note": "",
+        "age": -46609
+    },
+    {
+        "haplogroup": "R5'9'35",
+        "parent": "R+10398",
+        "note": "",
+        "age": -46390
+    },
+    {
+        "haplogroup": "N1",
+        "parent": "N1'5",
+        "note": "",
+        "age": -46266
+    },
+    {
+        "haplogroup": "U",
+        "parent": "R14'U",
+        "note": "",
+        "age": -45789
+    },
+    {
+        "haplogroup": "M12'G",
+        "parent": "M",
+        "note": "",
+        "age": -45602
+    },
+    {
+        "haplogroup": "U2\"11",
+        "parent": "U",
+        "note": "",
+        "age": -44694
+    },
+    {
+        "haplogroup": "U2",
+        "parent": "U2\"11",
+        "note": "",
+        "age": -44605
+    },
+    {
+        "haplogroup": "U2d'e",
+        "parent": "U2",
+        "note": "",
+        "age": -44575
+    },
+    {
+        "haplogroup": "JT",
+        "parent": "R2'JT",
+        "note": "",
+        "age": -44489
+    },
+    {
+        "haplogroup": "M29'Q",
+        "parent": "M",
+        "note": "",
+        "age": -44311
+    },
+    {
+        "haplogroup": "R9",
+        "parent": "R5'9'35",
+        "note": "",
+        "age": -43354
+    },
+    {
+        "haplogroup": "U8",
+        "parent": "U2\"11",
+        "note": "",
+        "age": -41962
+    },
+    {
+        "haplogroup": "U4'9'10'11",
+        "parent": "U2\"11",
+        "note": "",
+        "age": -41577
+    },
+    {
+        "haplogroup": "N1a",
+        "parent": "N1",
+        "note": "",
+        "age": -41460
+    },
+    {
+        "haplogroup": "L0a1'4'5'7'8",
+        "parent": "L0a",
+        "note": "",
+        "age": -39614
+    },
+    {
+        "haplogroup": "U8b^",
+        "parent": "U8",
+        "note": "",
+        "age": -39541
+    },
+    {
+        "haplogroup": "N1a1'2'4'5'6",
+        "parent": "N1a",
+        "note": "",
+        "age": -39472
+    },
+    {
+        "haplogroup": "U5",
+        "parent": "U",
+        "note": "",
+        "age": -39154
+    },
+    {
+        "haplogroup": "F",
+        "parent": "R9",
+        "note": "",
+        "age": -38718
+    },
+    {
+        "haplogroup": "U4'9'10",
+        "parent": "U4'9'10'11",
+        "note": "",
+        "age": -38533
+    },
+    {
+        "haplogroup": "M8",
+        "parent": "M",
+        "note": "",
+        "age": -37286
+    },
+    {
+        "haplogroup": "M9",
+        "parent": "M",
+        "note": "",
+        "age": -36345
+    },
+    {
+        "haplogroup": "CZ",
+        "parent": "M8",
+        "note": "",
+        "age": -35844
+    },
+    {
+        "haplogroup": "N1a1",
+        "parent": "N1a1'2'4'5'6",
+        "note": "",
+        "age": -35576
+    },
+    {
+        "haplogroup": "U8b",
+        "parent": "U8b^",
+        "note": "",
+        "age": -35024
+    },
+    {
+        "haplogroup": "D",
+        "parent": "M",
+        "note": "",
+        "age": -34863
+    },
+    {
+        "haplogroup": "Q",
+        "parent": "M29'Q",
+        "note": "",
+        "age": -34382
+    },
+    {
+        "haplogroup": "N2",
+        "parent": "N+8701",
+        "note": "",
+        "age": -34249
+    },
+    {
+        "haplogroup": "R0",
+        "parent": "R+10398",
+        "note": "",
+        "age": -33822
+    },
+    {
+        "haplogroup": "U4^",
+        "parent": "U4'9'10",
+        "note": "",
+        "age": -33079
+    },
+    {
+        "haplogroup": "J",
+        "parent": "JT",
+        "note": "",
+        "age": -31178
+    },
+    {
+        "haplogroup": "U3",
+        "parent": "U2\"11",
+        "note": "",
+        "age": -30905
+    },
+    {
+        "haplogroup": "G",
+        "parent": "M12'G",
+        "note": "",
+        "age": -30183
+    },
+    {
+        "haplogroup": "L6",
+        "parent": "L3'4'6",
+        "note": "",
+        "age": -29650
+    },
+    {
+        "haplogroup": "U1",
+        "parent": "U",
+        "note": "",
+        "age": -28511
+    },
+    {
+        "haplogroup": "U5a'b",
+        "parent": "U5",
+        "note": "",
+        "age": -27643
+    },
+    {
+        "haplogroup": "Y",
+        "parent": "N30",
+        "note": "",
+        "age": -26104
+    },
+    {
+        "haplogroup": "J2",
+        "parent": "J",
+        "note": "",
+        "age": -25559
+    },
+    {
+        "haplogroup": "K",
+        "parent": "U8b",
+        "note": "",
+        "age": -25531
+    },
+    {
+        "haplogroup": "X",
+        "parent": "N+8701",
+        "note": "",
+        "age": -25111
+    },
+    {
+        "haplogroup": "J1",
+        "parent": "J",
+        "note": "",
+        "age": -24520
+    },
+    {
+        "haplogroup": "C",
+        "parent": "CZ",
+        "note": "",
+        "age": -24060
+    },
+    {
+        "haplogroup": "L0a1",
+        "parent": "L0a1'4'5'7'8",
+        "note": "",
+        "age": -23988
+    },
+    {
+        "haplogroup": "U3b'd'f",
+        "parent": "U3",
+        "note": "",
+        "age": -23436
+    },
+    {
+        "haplogroup": "N1a1b",
+        "parent": "N1a1",
+        "note": "",
+        "age": -23380
+    },
+    {
+        "haplogroup": "X1'2'3'7'8",
+        "parent": "X",
+        "note": "",
+        "age": -23156
+    },
+    {
+        "haplogroup": "U1a",
+        "parent": "U1",
+        "note": "",
+        "age": -22335
+    },
+    {
+        "haplogroup": "A",
+        "parent": "N+8701",
+        "note": "",
+        "age": -21840
+    },
+    {
+        "haplogroup": "J2a",
+        "parent": "J2",
+        "note": "",
+        "age": -21732
+    },
+    {
+        "haplogroup": "L0a1c",
+        "parent": "L0a1",
+        "note": "",
+        "age": -21058
+    },
+    {
+        "haplogroup": "Z",
+        "parent": "CZ",
+        "note": "",
+        "age": -20408
+    },
+    {
+        "haplogroup": "U5b",
+        "parent": "U5a'b",
+        "note": "",
+        "age": -20404
+    },
+    {
+        "haplogroup": "K2",
+        "parent": "K",
+        "note": "",
+        "age": -20403
+    },
+    {
+        "haplogroup": "E",
+        "parent": "M9",
+        "note": "",
+        "age": -20376
+    },
+    {
+        "haplogroup": "K1",
+        "parent": "K",
+        "note": "",
+        "age": -20034
+    },
+    {
+        "haplogroup": "D4",
+        "parent": "D",
+        "note": "",
+        "age": -19711
+    },
+    {
+        "haplogroup": "J2a1",
+        "parent": "J2a",
+        "note": "",
+        "age": -19703
+    },
+    {
+        "haplogroup": "U2e",
+        "parent": "U2d'e",
+        "note": "",
+        "age": -19574
+    },
+    {
+        "haplogroup": "K1b",
+        "parent": "K1",
+        "note": "",
+        "age": -19145
+    },
+    {
+        "haplogroup": "U5a",
+        "parent": "U5a'b",
+        "note": "",
+        "age": -18375
+    },
+    {
+        "haplogroup": "J1b",
+        "parent": "J1",
+        "note": "",
+        "age": -17701
+    },
+    {
+        "haplogroup": "D4a'aa'at'au",
+        "parent": "D4",
+        "note": "",
+        "age": -17609
+    },
+    {
+        "haplogroup": "D4a'aa",
+        "parent": "D4a'aa'at'au",
+        "note": "",
+        "age": -17579
+    },
+    {
+        "haplogroup": "U1a1",
+        "parent": "U1a",
+        "note": "",
+        "age": -17579
+    },
+    {
+        "haplogroup": "U1a1a'b'i",
+        "parent": "U1a1",
+        "note": "",
+        "age": -17549
+    },
+    {
+        "haplogroup": "U2e1'2'3'4'5",
+        "parent": "U2e",
+        "note": "",
+        "age": -17084
+    },
+    {
+        "haplogroup": "U4",
+        "parent": "U4^",
+        "note": "",
+        "age": -16385
+    },
+    {
+        "haplogroup": "T",
+        "parent": "JT",
+        "note": "",
+        "age": -16207
+    },
+    {
+        "haplogroup": "U2e2'4",
+        "parent": "U2e1'2'3'4'5",
+        "note": "",
+        "age": -15854
+    },
+    {
+        "haplogroup": "N1a1a",
+        "parent": "N1a1",
+        "note": "",
+        "age": -15157
+    },
+    {
+        "haplogroup": "U4b'c",
+        "parent": "U4",
+        "note": "",
+        "age": -14296
+    },
+    {
+        "haplogroup": "J1b+16261",
+        "parent": "J1b",
+        "note": "",
+        "age": -14205
+    },
+    {
+        "haplogroup": "U5a2",
+        "parent": "U5a",
+        "note": "",
+        "age": -14178
+    },
+    {
+        "haplogroup": "J1b1'10",
+        "parent": "J1b+16261",
+        "note": "",
+        "age": -14175
+    },
+    {
+        "haplogroup": "U2e2",
+        "parent": "U2e2'4",
+        "note": "",
+        "age": -13918
+    },
+    {
+        "haplogroup": "I",
+        "parent": "N1a1b",
+        "note": "",
+        "age": -13870
+    },
+    {
+        "haplogroup": "I1'10'18'24",
+        "parent": "I",
+        "note": "",
+        "age": -13840
+    },
+    {
+        "haplogroup": "W",
+        "parent": "N2",
+        "note": "",
+        "age": -13689
+    },
+    {
+        "haplogroup": "J1b1",
+        "parent": "J1b1'10",
+        "note": "",
+        "age": -13529
+    },
+    {
+        "haplogroup": "N1a1a1",
+        "parent": "N1a1a",
+        "note": "",
+        "age": -13342
+    },
+    {
+        "haplogroup": "D4a",
+        "parent": "D4a'aa",
+        "note": "",
+        "age": -13189
+    },
+    {
+        "haplogroup": "U5a2a'f'i'j'l",
+        "parent": "U5a2",
+        "note": "",
+        "age": -12561
+    },
+    {
+        "haplogroup": "X2",
+        "parent": "X1'2'3'7'8",
+        "note": "",
+        "age": -12487
+    },
+    {
+        "haplogroup": "N1a1a1a",
+        "parent": "N1a1a1",
+        "note": "",
+        "age": -12468
+    },
+    {
+        "haplogroup": "U2e2a",
+        "parent": "U2e2",
+        "note": "",
+        "age": -12326
+    },
+    {
+        "haplogroup": "U5b1",
+        "parent": "U5b",
+        "note": "",
+        "age": -12030
+    },
+    {
+        "haplogroup": "T2",
+        "parent": "T",
+        "note": "",
+        "age": -12007
+    },
+    {
+        "haplogroup": "I1",
+        "parent": "I1'10'18'24",
+        "note": "",
+        "age": -11916
+    },
+    {
+        "haplogroup": "U1a1b'i",
+        "parent": "U1a1a'b'i",
+        "note": "",
+        "age": -11722
+    },
+    {
+        "haplogroup": "T1",
+        "parent": "T",
+        "note": "",
+        "age": -11673
+    },
+    {
+        "haplogroup": "U7",
+        "parent": "U2\"11",
+        "note": "",
+        "age": -11418
+    },
+    {
+        "haplogroup": "U5a1",
+        "parent": "U5a",
+        "note": "",
+        "age": -11195
+    },
+    {
+        "haplogroup": "T1a'b",
+        "parent": "T1",
+        "note": "",
+        "age": -11188
+    },
+    {
+        "haplogroup": "U5a1c",
+        "parent": "U5a1",
+        "note": "",
+        "age": -11165
+    },
+    {
+        "haplogroup": "U3b",
+        "parent": "U3b'd'f",
+        "note": "",
+        "age": -11150
+    },
+    {
+        "haplogroup": "X2+225",
+        "parent": "X2",
+        "note": "",
+        "age": -10970
+    },
+    {
+        "haplogroup": "T2+11812",
+        "parent": "T2",
+        "note": "",
+        "age": -10904
+    },
+    {
+        "haplogroup": "U5a2a",
+        "parent": "U5a2a'f'i'j'l",
+        "note": "",
+        "age": -10864
+    },
+    {
+        "haplogroup": "I1a^",
+        "parent": "I1",
+        "note": "",
+        "age": -10820
+    },
+    {
+        "haplogroup": "K2a",
+        "parent": "K2",
+        "note": "",
+        "age": -10653
+    },
+    {
+        "haplogroup": "U5a1d",
+        "parent": "U5a1",
+        "note": "",
+        "age": -10639
+    },
+    {
+        "haplogroup": "U5a1d2",
+        "parent": "U5a1d",
+        "note": "",
+        "age": -10609
+    },
+    {
+        "haplogroup": "U7a\"n",
+        "parent": "U7",
+        "note": "",
+        "age": -10555
+    },
+    {
+        "haplogroup": "D4a1\"22",
+        "parent": "D4a",
+        "note": "",
+        "age": -10395
+    },
+    {
+        "haplogroup": "T1a",
+        "parent": "T1a'b",
+        "note": "",
+        "age": -10306
+    },
+    {
+        "haplogroup": "J1c",
+        "parent": "J1",
+        "note": "",
+        "age": -10156
+    },
+    {
+        "haplogroup": "HV",
+        "parent": "R0",
+        "note": "",
+        "age": -10069
+    },
+    {
+        "haplogroup": "L0a1c1^",
+        "parent": "L0a1c",
+        "note": "",
+        "age": -9926
+    },
+    {
+        "haplogroup": "U3b3",
+        "parent": "U3b",
+        "note": "",
+        "age": -9900
+    },
+    {
+        "haplogroup": "J2a1a",
+        "parent": "J2a1",
+        "note": "",
+        "age": -9774
+    },
+    {
+        "haplogroup": "J1b1a",
+        "parent": "J1b1",
+        "note": "",
+        "age": -9608
+    },
+    {
+        "haplogroup": "K1b2",
+        "parent": "K1b",
+        "note": "",
+        "age": -9537
+    },
+    {
+        "haplogroup": "J2b",
+        "parent": "J2",
+        "note": "",
+        "age": -9529
+    },
+    {
+        "haplogroup": "T2a",
+        "parent": "T2+11812",
+        "note": "",
+        "age": -9360
+    },
+    {
+        "haplogroup": "U3b1",
+        "parent": "U3b",
+        "note": "",
+        "age": -9323
+    },
+    {
+        "haplogroup": "W+195",
+        "parent": "W",
+        "note": "",
+        "age": -9226
+    },
+    {
+        "haplogroup": "HV4",
+        "parent": "HV",
+        "note": "",
+        "age": -9206
+    },
+    {
+        "haplogroup": "W+195+194",
+        "parent": "W+195",
+        "note": "",
+        "age": -9196
+    },
+    {
+        "haplogroup": "W5'34",
+        "parent": "W+195+194",
+        "note": "",
+        "age": -9166
+    },
+    {
+        "haplogroup": "W5",
+        "parent": "W5'34",
+        "note": "",
+        "age": -9136
+    },
+    {
+        "haplogroup": "I1a",
+        "parent": "I1a^",
+        "note": "",
+        "age": -8898
+    },
+    {
+        "haplogroup": "T2f",
+        "parent": "T2+11812",
+        "note": "",
+        "age": -8843
+    },
+    {
+        "haplogroup": "K1a",
+        "parent": "K1",
+        "note": "",
+        "age": -8840
+    },
+    {
+        "haplogroup": "U5a1a'g'r'y",
+        "parent": "U5a1",
+        "note": "",
+        "age": -8837
+    },
+    {
+        "haplogroup": "U5a1d2a'c^",
+        "parent": "U5a1d2",
+        "note": "",
+        "age": -8761
+    },
+    {
+        "haplogroup": "U1a1b",
+        "parent": "U1a1b'i",
+        "note": "",
+        "age": -8551
+    },
+    {
+        "haplogroup": "K1a4",
+        "parent": "K1a",
+        "note": "",
+        "age": -8332
+    },
+    {
+        "haplogroup": "U4b",
+        "parent": "U4b'c",
+        "note": "",
+        "age": -8310
+    },
+    {
+        "haplogroup": "T2a1",
+        "parent": "T2a",
+        "note": "",
+        "age": -8293
+    },
+    {
+        "haplogroup": "U5b1b",
+        "parent": "U5b1",
+        "note": "",
+        "age": -8193
+    },
+    {
+        "haplogroup": "U2e1",
+        "parent": "U2e1'2'3'4'5",
+        "note": "",
+        "age": -8134
+    },
+    {
+        "haplogroup": "U2e1b'y",
+        "parent": "U2e1",
+        "note": "",
+        "age": -8104
+    },
+    {
+        "haplogroup": "U2e1b^",
+        "parent": "U2e1b'y",
+        "note": "",
+        "age": -8074
+    },
+    {
+        "haplogroup": "U2e1b",
+        "parent": "U2e1b^",
+        "note": "",
+        "age": -8044
+    },
+    {
+        "haplogroup": "K1a4c",
+        "parent": "K1a4",
+        "note": "",
+        "age": -8025
+    },
+    {
+        "haplogroup": "U2e1b1'3'4'5",
+        "parent": "U2e1b",
+        "note": "",
+        "age": -8014
+    },
+    {
+        "haplogroup": "J2b1",
+        "parent": "J2b",
+        "note": "",
+        "age": -7972
+    },
+    {
+        "haplogroup": "H",
+        "parent": "HV",
+        "note": "",
+        "age": -7943
+    },
+    {
+        "haplogroup": "U5a1c2",
+        "parent": "U5a1c",
+        "note": "",
+        "age": -7924
+    },
+    {
+        "haplogroup": "H+16519",
+        "parent": "H",
+        "note": "",
+        "age": -7913
+    },
+    {
+        "haplogroup": "H148",
+        "parent": "H",
+        "note": "",
+        "age": -7913
+    },
+    {
+        "haplogroup": "H6",
+        "parent": "H",
+        "note": "",
+        "age": -7913
+    },
+    {
+        "haplogroup": "H148a",
+        "parent": "H148",
+        "note": "",
+        "age": -7883
+    },
+    {
+        "haplogroup": "H6a'b'c",
+        "parent": "H6",
+        "note": "",
+        "age": -7883
+    },
+    {
+        "haplogroup": "U4b1",
+        "parent": "U4b",
+        "note": "",
+        "age": -7638
+    },
+    {
+        "haplogroup": "U4b1b",
+        "parent": "U4b",
+        "note": "",
+        "age": -7638
+    },
+    {
+        "haplogroup": "U4b1a",
+        "parent": "U4b1",
+        "note": "",
+        "age": -7608
+    },
+    {
+        "haplogroup": "U4b1b1'2",
+        "parent": "U4b1b",
+        "note": "",
+        "age": -7608
+    },
+    {
+        "haplogroup": "U5a1d2a'c",
+        "parent": "U5a1d2a'c^",
+        "note": "",
+        "age": -7445
+    },
+    {
+        "haplogroup": "U5a1a",
+        "parent": "U5a1a'g'r'y",
+        "note": "",
+        "age": -7443
+    },
+    {
+        "haplogroup": "U2e1b4",
+        "parent": "U2e1b1'3'4'5",
+        "note": "",
+        "age": -7099
+    },
+    {
+        "haplogroup": "T2b^^",
+        "parent": "T2+11812",
+        "note": "",
+        "age": -7073
+    },
+    {
+        "haplogroup": "X2ap",
+        "parent": "X2+225",
+        "note": "",
+        "age": -7044
+    },
+    {
+        "haplogroup": "T2b^",
+        "parent": "T2b^^",
+        "note": "",
+        "age": -7043
+    },
+    {
+        "haplogroup": "U2e2a1",
+        "parent": "U2e2a",
+        "note": "",
+        "age": -7019
+    },
+    {
+        "haplogroup": "T2e",
+        "parent": "T2+11812",
+        "note": "",
+        "age": -6960
+    },
+    {
+        "haplogroup": "U4a",
+        "parent": "U4",
+        "note": "",
+        "age": -6941
+    },
+    {
+        "haplogroup": "U4a+16356",
+        "parent": "U4a",
+        "note": "",
+        "age": -6911
+    },
+    {
+        "haplogroup": "U4a1'77",
+        "parent": "U4a+16356",
+        "note": "",
+        "age": -6881
+    },
+    {
+        "haplogroup": "U4b1b1",
+        "parent": "U4b1b1'2",
+        "note": "",
+        "age": -6869
+    },
+    {
+        "haplogroup": "U4a1",
+        "parent": "U4a1'77",
+        "note": "",
+        "age": -6851
+    },
+    {
+        "haplogroup": "H15",
+        "parent": "H",
+        "note": "",
+        "age": -6707
+    },
+    {
+        "haplogroup": "H15a'b",
+        "parent": "H15",
+        "note": "",
+        "age": -6677
+    },
+    {
+        "haplogroup": "H40",
+        "parent": "H",
+        "note": "",
+        "age": -6677
+    },
+    {
+        "haplogroup": "J2a1a2",
+        "parent": "J2a1a",
+        "note": "",
+        "age": -6647
+    },
+    {
+        "haplogroup": "H2",
+        "parent": "H+16519",
+        "note": "",
+        "age": -6625
+    },
+    {
+        "haplogroup": "U7b",
+        "parent": "U7a\"n",
+        "note": "",
+        "age": -6513
+    },
+    {
+        "haplogroup": "U7b34",
+        "parent": "U7b",
+        "note": "",
+        "age": -6483
+    },
+    {
+        "haplogroup": "T2b",
+        "parent": "T2b^",
+        "note": "",
+        "age": -6460
+    },
+    {
+        "haplogroup": "K1a2",
+        "parent": "K1a",
+        "note": "",
+        "age": -6458
+    },
+    {
+        "haplogroup": "H47",
+        "parent": "H+16519",
+        "note": "",
+        "age": -6451
+    },
+    {
+        "haplogroup": "H5\"612",
+        "parent": "H+16519",
+        "note": "",
+        "age": -6440
+    },
+    {
+        "haplogroup": "T2b+11242",
+        "parent": "T2b",
+        "note": "",
+        "age": -6430
+    },
+    {
+        "haplogroup": "K1a2i'j",
+        "parent": "K1a2",
+        "note": "",
+        "age": -6428
+    },
+    {
+        "haplogroup": "H5",
+        "parent": "H5\"612",
+        "note": "",
+        "age": -6410
+    },
+    {
+        "haplogroup": "W1",
+        "parent": "W+195",
+        "note": "",
+        "age": -6368
+    },
+    {
+        "haplogroup": "J1c11",
+        "parent": "J1c",
+        "note": "",
+        "age": -6353
+    },
+    {
+        "haplogroup": "H26",
+        "parent": "H",
+        "note": "",
+        "age": -6302
+    },
+    {
+        "haplogroup": "U5a2a1'6'7",
+        "parent": "U5a2a",
+        "note": "",
+        "age": -6205
+    },
+    {
+        "haplogroup": "K1a4c1'3'4'5",
+        "parent": "K1a4c",
+        "note": "",
+        "age": -6139
+    },
+    {
+        "haplogroup": "T2a1c",
+        "parent": "T2a1",
+        "note": "",
+        "age": -6129
+    },
+    {
+        "haplogroup": "T2f1\"16",
+        "parent": "T2f",
+        "note": "",
+        "age": -5860
+    },
+    {
+        "haplogroup": "H5r^^",
+        "parent": "H5",
+        "note": "",
+        "age": -5811
+    },
+    {
+        "haplogroup": "U4a3'16",
+        "parent": "U4a+16356",
+        "note": "",
+        "age": -5801
+    },
+    {
+        "haplogroup": "W5a",
+        "parent": "W5",
+        "note": "",
+        "age": -5746
+    },
+    {
+        "haplogroup": "U5b1b1",
+        "parent": "U5b1b",
+        "note": "",
+        "age": -5713
+    },
+    {
+        "haplogroup": "H2a",
+        "parent": "H2",
+        "note": "",
+        "age": -5697
+    },
+    {
+        "haplogroup": "H2a2",
+        "parent": "H2a",
+        "note": "",
+        "age": -5667
+    },
+    {
+        "haplogroup": "H2a2a",
+        "parent": "H2a2",
+        "note": "",
+        "age": -5637
+    },
+    {
+        "haplogroup": "H6a",
+        "parent": "H6a'b'c",
+        "note": "",
+        "age": -5637
+    },
+    {
+        "haplogroup": "H47a'g'l'm",
+        "parent": "H47",
+        "note": "",
+        "age": -5629
+    },
+    {
+        "haplogroup": "H6a1",
+        "parent": "H6a",
+        "note": "",
+        "age": -5607
+    },
+    {
+        "haplogroup": "U4a3^",
+        "parent": "U4a3'16",
+        "note": "",
+        "age": -5580
+    },
+    {
+        "haplogroup": "U2e1b4e",
+        "parent": "U2e1b4",
+        "note": "",
+        "age": -5578
+    },
+    {
+        "haplogroup": "U5a2b",
+        "parent": "U5a2",
+        "note": "",
+        "age": -5559
+    },
+    {
+        "haplogroup": "U4a3",
+        "parent": "U4a3^",
+        "note": "",
+        "age": -5550
+    },
+    {
+        "haplogroup": "H33",
+        "parent": "H+16519",
+        "note": "",
+        "age": -5436
+    },
+    {
+        "haplogroup": "H5a",
+        "parent": "H5",
+        "note": "",
+        "age": -5424
+    },
+    {
+        "haplogroup": "H33c'd",
+        "parent": "H33",
+        "note": "",
+        "age": -5406
+    },
+    {
+        "haplogroup": "T2e5'61",
+        "parent": "T2e",
+        "note": "",
+        "age": -5357
+    },
+    {
+        "haplogroup": "HV0",
+        "parent": "HV",
+        "note": "",
+        "age": -5331
+    },
+    {
+        "haplogroup": "U4b1a2'7",
+        "parent": "U4b1a",
+        "note": "",
+        "age": -5328
+    },
+    {
+        "haplogroup": "HV0a",
+        "parent": "HV0",
+        "note": "",
+        "age": -5301
+    },
+    {
+        "haplogroup": "K2a+709",
+        "parent": "K2a",
+        "note": "",
+        "age": -5293
+    },
+    {
+        "haplogroup": "K2a+709+152",
+        "parent": "K2a+709",
+        "note": "",
+        "age": -5263
+    },
+    {
+        "haplogroup": "H30a",
+        "parent": "H",
+        "note": "",
+        "age": -5250
+    },
+    {
+        "haplogroup": "H28\"582",
+        "parent": "H",
+        "note": "",
+        "age": -5227
+    },
+    {
+        "haplogroup": "H1",
+        "parent": "H",
+        "note": "",
+        "age": -5203
+    },
+    {
+        "haplogroup": "J1c1",
+        "parent": "J1c",
+        "note": "",
+        "age": -5168
+    },
+    {
+        "haplogroup": "H2a1\"22",
+        "parent": "H2a",
+        "note": "",
+        "age": -5129
+    },
+    {
+        "haplogroup": "U5b1e",
+        "parent": "U5b1",
+        "note": "",
+        "age": -4992
+    },
+    {
+        "haplogroup": "J1c3",
+        "parent": "J1c",
+        "note": "",
+        "age": -4966
+    },
+    {
+        "haplogroup": "H2a1",
+        "parent": "H2a1\"22",
+        "note": "",
+        "age": -4928
+    },
+    {
+        "haplogroup": "U5a1a1",
+        "parent": "U5a1a",
+        "note": "",
+        "age": -4922
+    },
+    {
+        "haplogroup": "J1c3a",
+        "parent": "J1c3",
+        "note": "",
+        "age": -4918
+    },
+    {
+        "haplogroup": "J1c4^",
+        "parent": "J1c",
+        "note": "",
+        "age": -4912
+    },
+    {
+        "haplogroup": "T2am",
+        "parent": "T2+11812",
+        "note": "",
+        "age": -4827
+    },
+    {
+        "haplogroup": "H7",
+        "parent": "H",
+        "note": "",
+        "age": -4746
+    },
+    {
+        "haplogroup": "H3",
+        "parent": "H",
+        "note": "",
+        "age": -4705
+    },
+    {
+        "haplogroup": "H47l",
+        "parent": "H47a'g'l'm",
+        "note": "",
+        "age": -4664
+    },
+    {
+        "haplogroup": "H10",
+        "parent": "H",
+        "note": "",
+        "age": -4651
+    },
+    {
+        "haplogroup": "H1ma'xg",
+        "parent": "H1",
+        "note": "",
+        "age": -4626
+    },
+    {
+        "haplogroup": "H1n",
+        "parent": "H1",
+        "note": "",
+        "age": -4626
+    },
+    {
+        "haplogroup": "H73",
+        "parent": "H",
+        "note": "",
+        "age": -4614
+    },
+    {
+        "haplogroup": "HV0ai'bs",
+        "parent": "HV0",
+        "note": "",
+        "age": -4581
+    },
+    {
+        "haplogroup": "H6a1b",
+        "parent": "H6a1",
+        "note": "",
+        "age": -4573
+    },
+    {
+        "haplogroup": "T2b4",
+        "parent": "T2b+11242",
+        "note": "",
+        "age": -4475
+    },
+    {
+        "haplogroup": "J1c1b",
+        "parent": "J1c1",
+        "note": "",
+        "age": -4473
+    },
+    {
+        "haplogroup": "J1c1b1",
+        "parent": "J1c1b",
+        "note": "",
+        "age": -4443
+    },
+    {
+        "haplogroup": "J2a1a2a",
+        "parent": "J2a1a2",
+        "note": "",
+        "age": -4386
+    },
+    {
+        "haplogroup": "D4a1",
+        "parent": "D4a1\"22",
+        "note": "",
+        "age": -4333
+    },
+    {
+        "haplogroup": "D4a1e",
+        "parent": "D4a1",
+        "note": "",
+        "age": -4303
+    },
+    {
+        "haplogroup": "U3b1b^",
+        "parent": "U3b1",
+        "note": "",
+        "age": -4242
+    },
+    {
+        "haplogroup": "J1c+16261",
+        "parent": "J1c",
+        "note": "",
+        "age": -4234
+    },
+    {
+        "haplogroup": "J1c14'39^",
+        "parent": "J1c+16261",
+        "note": "",
+        "age": -4204
+    },
+    {
+        "haplogroup": "J1c14'39",
+        "parent": "J1c14'39^",
+        "note": "",
+        "age": -4174
+    },
+    {
+        "haplogroup": "H7b",
+        "parent": "H7",
+        "note": "",
+        "age": -4150
+    },
+    {
+        "haplogroup": "H1ay",
+        "parent": "H1",
+        "note": "",
+        "age": -4129
+    },
+    {
+        "haplogroup": "H26a",
+        "parent": "H26",
+        "note": "",
+        "age": -4126
+    },
+    {
+        "haplogroup": "H16",
+        "parent": "H",
+        "note": "",
+        "age": -4063
+    },
+    {
+        "haplogroup": "U2e1b1^",
+        "parent": "U2e1b1'3'4'5",
+        "note": "",
+        "age": -4038
+    },
+    {
+        "haplogroup": "H16+16189",
+        "parent": "H16",
+        "note": "",
+        "age": -4033
+    },
+    {
+        "haplogroup": "H16+16189+10394",
+        "parent": "H16+16189",
+        "note": "",
+        "age": -4003
+    },
+    {
+        "haplogroup": "U1a1b4",
+        "parent": "U1a1b",
+        "note": "",
+        "age": -3950
+    },
+    {
+        "haplogroup": "U4a11",
+        "parent": "U4a+16356",
+        "note": "",
+        "age": -3941
+    },
+    {
+        "haplogroup": "U4b1b1+146",
+        "parent": "U4b1b1",
+        "note": "",
+        "age": -3922
+    },
+    {
+        "haplogroup": "U5b1b1+7385",
+        "parent": "U5b1b1",
+        "note": "",
+        "age": -3905
+    },
+    {
+        "haplogroup": "W1c",
+        "parent": "W1",
+        "note": "",
+        "age": -3895
+    },
+    {
+        "haplogroup": "H6a1b2",
+        "parent": "H6a1b",
+        "note": "",
+        "age": -3880
+    },
+    {
+        "haplogroup": "V",
+        "parent": "HV0a",
+        "note": "",
+        "age": -3845
+    },
+    {
+        "haplogroup": "V1",
+        "parent": "V",
+        "note": "",
+        "age": -3815
+    },
+    {
+        "haplogroup": "V17'216",
+        "parent": "V",
+        "note": "",
+        "age": -3815
+    },
+    {
+        "haplogroup": "V7",
+        "parent": "V",
+        "note": "",
+        "age": -3815
+    },
+    {
+        "haplogroup": "H5a1",
+        "parent": "H5a",
+        "note": "",
+        "age": -3810
+    },
+    {
+        "haplogroup": "V1a",
+        "parent": "V1",
+        "note": "",
+        "age": -3785
+    },
+    {
+        "haplogroup": "H371",
+        "parent": "H",
+        "note": "",
+        "age": -3760
+    },
+    {
+        "haplogroup": "X2q",
+        "parent": "X2",
+        "note": "",
+        "age": -3668
+    },
+    {
+        "haplogroup": "H35",
+        "parent": "H",
+        "note": "",
+        "age": -3662
+    },
+    {
+        "haplogroup": "J1c1b1a",
+        "parent": "J1c1b1",
+        "note": "",
+        "age": -3653
+    },
+    {
+        "haplogroup": "T2f2",
+        "parent": "T2f1\"16",
+        "note": "",
+        "age": -3637
+    },
+    {
+        "haplogroup": "T2b6'410",
+        "parent": "T2b+11242",
+        "note": "",
+        "age": -3577
+    },
+    {
+        "haplogroup": "U5a2a1",
+        "parent": "U5a2a1'6'7",
+        "note": "",
+        "age": -3536
+    },
+    {
+        "haplogroup": "T2a1c3^",
+        "parent": "T2a1c",
+        "note": "",
+        "age": -3527
+    },
+    {
+        "haplogroup": "HV0f",
+        "parent": "HV0",
+        "note": "",
+        "age": -3488
+    },
+    {
+        "haplogroup": "J1b1a1",
+        "parent": "J1b1a",
+        "note": "",
+        "age": -3482
+    },
+    {
+        "haplogroup": "HV4c'j'k'l",
+        "parent": "HV4",
+        "note": "",
+        "age": -3453
+    },
+    {
+        "haplogroup": "J1b1a1d^",
+        "parent": "J1b1a1",
+        "note": "",
+        "age": -3452
+    },
+    {
+        "haplogroup": "J1c3j",
+        "parent": "J1c3",
+        "note": "",
+        "age": -3417
+    },
+    {
+        "haplogroup": "U5a1c2a",
+        "parent": "U5a1c2",
+        "note": "",
+        "age": -3417
+    },
+    {
+        "haplogroup": "H15b",
+        "parent": "H15a'b",
+        "note": "",
+        "age": -3381
+    },
+    {
+        "haplogroup": "J2b1ak'al'am'a6",
+        "parent": "J2b1",
+        "note": "",
+        "age": -3381
+    },
+    {
+        "haplogroup": "U5a1d2a",
+        "parent": "U5a1d2a'c",
+        "note": "",
+        "age": -3319
+    },
+    {
+        "haplogroup": "H30a1'2'4'5'6",
+        "parent": "H30a",
+        "note": "",
+        "age": -3314
+    },
+    {
+        "haplogroup": "H40k",
+        "parent": "H40",
+        "note": "",
+        "age": -3288
+    },
+    {
+        "haplogroup": "H1aq",
+        "parent": "H1",
+        "note": "",
+        "age": -3284
+    },
+    {
+        "haplogroup": "V7a",
+        "parent": "V7",
+        "note": "",
+        "age": -3270
+    },
+    {
+        "haplogroup": "V17",
+        "parent": "V17'216",
+        "note": "",
+        "age": -3258
+    },
+    {
+        "haplogroup": "H1c",
+        "parent": "H1",
+        "note": "",
+        "age": -3233
+    },
+    {
+        "haplogroup": "H2a2b",
+        "parent": "H2a2",
+        "note": "",
+        "age": -3210
+    },
+    {
+        "haplogroup": "X2q5",
+        "parent": "X2q",
+        "note": "",
+        "age": -3205
+    },
+    {
+        "haplogroup": "HV6",
+        "parent": "HV",
+        "note": "",
+        "age": -3099
+    },
+    {
+        "haplogroup": "H1b",
+        "parent": "H1",
+        "note": "",
+        "age": -3060
+    },
+    {
+        "haplogroup": "T1a1",
+        "parent": "T1a",
+        "note": "",
+        "age": -3029
+    },
+    {
+        "haplogroup": "K2a3",
+        "parent": "K2a+709+152",
+        "note": "",
+        "age": -3007
+    },
+    {
+        "haplogroup": "H1a3",
+        "parent": "H1",
+        "note": "",
+        "age": -2997
+    },
+    {
+        "haplogroup": "W1+16295",
+        "parent": "W1",
+        "note": "",
+        "age": -2990
+    },
+    {
+        "haplogroup": "H5c",
+        "parent": "H5",
+        "note": "",
+        "age": -2976
+    },
+    {
+        "haplogroup": "H1a^",
+        "parent": "H1a3",
+        "note": "",
+        "age": -2967
+    },
+    {
+        "haplogroup": "H2a1a^",
+        "parent": "H2a1",
+        "note": "",
+        "age": -2958
+    },
+    {
+        "haplogroup": "H1a",
+        "parent": "H1a^",
+        "note": "",
+        "age": -2937
+    },
+    {
+        "haplogroup": "H2a1a",
+        "parent": "H2a1a^",
+        "note": "",
+        "age": -2928
+    },
+    {
+        "haplogroup": "J1c1b1a3",
+        "parent": "J1c1b1a",
+        "note": "",
+        "age": -2919
+    },
+    {
+        "haplogroup": "H6a1a",
+        "parent": "H6a1",
+        "note": "",
+        "age": -2902
+    },
+    {
+        "haplogroup": "H10d",
+        "parent": "H10",
+        "note": "",
+        "age": -2900
+    },
+    {
+        "haplogroup": "T1a1au",
+        "parent": "T1a1",
+        "note": "",
+        "age": -2870
+    },
+    {
+        "haplogroup": "K1a4w",
+        "parent": "K1a4",
+        "note": "",
+        "age": -2844
+    },
+    {
+        "haplogroup": "N1a1a1a1",
+        "parent": "N1a1a1a",
+        "note": "",
+        "age": -2839
+    },
+    {
+        "haplogroup": "T2f2a\"k",
+        "parent": "T2f2",
+        "note": "",
+        "age": -2814
+    },
+    {
+        "haplogroup": "X2ap1",
+        "parent": "X2ap",
+        "note": "",
+        "age": -2810
+    },
+    {
+        "haplogroup": "N1a1a1a1a\"n",
+        "parent": "N1a1a1a1",
+        "note": "",
+        "age": -2809
+    },
+    {
+        "haplogroup": "H85",
+        "parent": "H371",
+        "note": "",
+        "age": -2789
+    },
+    {
+        "haplogroup": "U4a+16356+16223",
+        "parent": "U4a+16356",
+        "note": "",
+        "age": -2750
+    },
+    {
+        "haplogroup": "H5a2",
+        "parent": "H5a",
+        "note": "",
+        "age": -2737
+    },
+    {
+        "haplogroup": "I1a1",
+        "parent": "I1a",
+        "note": "",
+        "age": -2721
+    },
+    {
+        "haplogroup": "W5a2",
+        "parent": "W5a",
+        "note": "",
+        "age": -2679
+    },
+    {
+        "haplogroup": "H1ay1",
+        "parent": "H1ay",
+        "note": "",
+        "age": -2643
+    },
+    {
+        "haplogroup": "K1a4c1",
+        "parent": "K1a4c1'3'4'5",
+        "note": "",
+        "age": -2622
+    },
+    {
+        "haplogroup": "J1c4",
+        "parent": "J1c4^",
+        "note": "",
+        "age": -2559
+    },
+    {
+        "haplogroup": "H2a2a1",
+        "parent": "H2a2a",
+        "note": "rCRS",
+        "age": -2530
+    },
+    {
+        "haplogroup": "U5a1c2a1",
+        "parent": "U5a1c2a",
+        "note": "",
+        "age": -2451
+    },
+    {
+        "haplogroup": "U4b1a2",
+        "parent": "U4b1a2'7",
+        "note": "",
+        "age": -2421
+    },
+    {
+        "haplogroup": "D4a1e1^",
+        "parent": "D4a1e",
+        "note": "",
+        "age": -2389
+    },
+    {
+        "haplogroup": "X2q5a",
+        "parent": "X2q5",
+        "note": "",
+        "age": -2331
+    },
+    {
+        "haplogroup": "U5a2a1b",
+        "parent": "U5a2a1",
+        "note": "",
+        "age": -2310
+    },
+    {
+        "haplogroup": "K1b2a",
+        "parent": "K1b2",
+        "note": "",
+        "age": -2303
+    },
+    {
+        "haplogroup": "U4a11a",
+        "parent": "U4a11",
+        "note": "",
+        "age": -2303
+    },
+    {
+        "haplogroup": "H5r^",
+        "parent": "H5r^^",
+        "note": "",
+        "age": -2299
+    },
+    {
+        "haplogroup": "H3h",
+        "parent": "H3",
+        "note": "",
+        "age": -2274
+    },
+    {
+        "haplogroup": "K1b2a1",
+        "parent": "K1b2a",
+        "note": "",
+        "age": -2273
+    },
+    {
+        "haplogroup": "H3b",
+        "parent": "H3",
+        "note": "",
+        "age": -2270
+    },
+    {
+        "haplogroup": "U3b1b",
+        "parent": "U3b1b^",
+        "note": "",
+        "age": -2256
+    },
+    {
+        "haplogroup": "T2b4+152",
+        "parent": "T2b4",
+        "note": "",
+        "age": -2251
+    },
+    {
+        "haplogroup": "V7a+16153",
+        "parent": "V7a",
+        "note": "",
+        "age": -2251
+    },
+    {
+        "haplogroup": "H5a6",
+        "parent": "H5a",
+        "note": "",
+        "age": -2231
+    },
+    {
+        "haplogroup": "H1n+146",
+        "parent": "H1n",
+        "note": "",
+        "age": -2198
+    },
+    {
+        "haplogroup": "U4a1b",
+        "parent": "U4a1",
+        "note": "",
+        "age": -2157
+    },
+    {
+        "haplogroup": "J2a1a2a1",
+        "parent": "J2a1a2a",
+        "note": "",
+        "age": -2155
+    },
+    {
+        "haplogroup": "H1b1",
+        "parent": "H1b",
+        "note": "",
+        "age": -2151
+    },
+    {
+        "haplogroup": "H2a2a1a",
+        "parent": "H2a2a1",
+        "note": "",
+        "age": -2121
+    },
+    {
+        "haplogroup": "T2b5",
+        "parent": "T2b+11242",
+        "note": "",
+        "age": -2113
+    },
+    {
+        "haplogroup": "H1xp",
+        "parent": "H1",
+        "note": "",
+        "age": -2104
+    },
+    {
+        "haplogroup": "V1a1",
+        "parent": "V1a",
+        "note": "",
+        "age": -2100
+    },
+    {
+        "haplogroup": "H6a1a118",
+        "parent": "H6a1a",
+        "note": "",
+        "age": -2068
+    },
+    {
+        "haplogroup": "H10a",
+        "parent": "H10",
+        "note": "",
+        "age": -2067
+    },
+    {
+        "haplogroup": "H1a+16051",
+        "parent": "H1a",
+        "note": "",
+        "age": -2054
+    },
+    {
+        "haplogroup": "H27",
+        "parent": "H",
+        "note": "",
+        "age": -2042
+    },
+    {
+        "haplogroup": "H5a1a",
+        "parent": "H5a1",
+        "note": "",
+        "age": -2017
+    },
+    {
+        "haplogroup": "H27+16129",
+        "parent": "H27",
+        "note": "",
+        "age": -1965
+    },
+    {
+        "haplogroup": "HV6+16172",
+        "parent": "HV6",
+        "note": "",
+        "age": -1950
+    },
+    {
+        "haplogroup": "H148a2^",
+        "parent": "H148a",
+        "note": "",
+        "age": -1939
+    },
+    {
+        "haplogroup": "U4a11a1",
+        "parent": "U4a11a",
+        "note": "",
+        "age": -1921
+    },
+    {
+        "haplogroup": "H1c+152",
+        "parent": "H1c",
+        "note": "",
+        "age": -1916
+    },
+    {
+        "haplogroup": "H148a2",
+        "parent": "H148a2^",
+        "note": "",
+        "age": -1909
+    },
+    {
+        "haplogroup": "T1a1k",
+        "parent": "T1a1",
+        "note": "",
+        "age": -1864
+    },
+    {
+        "haplogroup": "U5b1e1",
+        "parent": "U5b1e",
+        "note": "",
+        "age": -1845
+    },
+    {
+        "haplogroup": "H1c9",
+        "parent": "H1c+152",
+        "note": "",
+        "age": -1837
+    },
+    {
+        "haplogroup": "T1a1k1^",
+        "parent": "T1a1k",
+        "note": "",
+        "age": -1834
+    },
+    {
+        "haplogroup": "T2b45",
+        "parent": "T2b+11242",
+        "note": "",
+        "age": -1811
+    },
+    {
+        "haplogroup": "I1a1a",
+        "parent": "I1a1",
+        "note": "",
+        "age": -1799
+    },
+    {
+        "haplogroup": "H165",
+        "parent": "H28\"582",
+        "note": "",
+        "age": -1788
+    },
+    {
+        "haplogroup": "V1a17",
+        "parent": "V1a",
+        "note": "",
+        "age": -1734
+    },
+    {
+        "haplogroup": "X2q5a1",
+        "parent": "X2q5a",
+        "note": "",
+        "age": -1704
+    },
+    {
+        "haplogroup": "U5b1e1+16465",
+        "parent": "U5b1e1",
+        "note": "",
+        "age": -1694
+    },
+    {
+        "haplogroup": "H85a\"j",
+        "parent": "H85",
+        "note": "",
+        "age": -1682
+    },
+    {
+        "haplogroup": "U2e1b4e1",
+        "parent": "U2e1b4e",
+        "note": "",
+        "age": -1667
+    },
+    {
+        "haplogroup": "U5b1e1g",
+        "parent": "U5b1e1+16465",
+        "note": "",
+        "age": -1664
+    },
+    {
+        "haplogroup": "HV0f1",
+        "parent": "HV0f",
+        "note": "",
+        "age": -1663
+    },
+    {
+        "haplogroup": "H35a",
+        "parent": "H35",
+        "note": "",
+        "age": -1652
+    },
+    {
+        "haplogroup": "H85d",
+        "parent": "H85a\"j",
+        "note": "",
+        "age": -1652
+    },
+    {
+        "haplogroup": "H1c84",
+        "parent": "H1c",
+        "note": "",
+        "age": -1601
+    },
+    {
+        "haplogroup": "X2q5a1a",
+        "parent": "X2q5a1",
+        "note": "",
+        "age": -1573
+    },
+    {
+        "haplogroup": "U4a3a'b'c",
+        "parent": "U4a3",
+        "note": "",
+        "age": -1563
+    },
+    {
+        "haplogroup": "H3af",
+        "parent": "H3",
+        "note": "",
+        "age": -1560
+    },
+    {
+        "haplogroup": "H26a1",
+        "parent": "H26a",
+        "note": "",
+        "age": -1530
+    },
+    {
+        "haplogroup": "H3af1\"10",
+        "parent": "H3af",
+        "note": "",
+        "age": -1530
+    },
+    {
+        "haplogroup": "T1a1au2",
+        "parent": "T1a1au",
+        "note": "",
+        "age": -1503
+    },
+    {
+        "haplogroup": "W5a2a",
+        "parent": "W5a2",
+        "note": "",
+        "age": -1498
+    },
+    {
+        "haplogroup": "X2q5a1a+152",
+        "parent": "X2q5a1a",
+        "note": "",
+        "age": -1494
+    },
+    {
+        "haplogroup": "H165b",
+        "parent": "H165",
+        "note": "",
+        "age": -1483
+    },
+    {
+        "haplogroup": "H165b1",
+        "parent": "H165b",
+        "note": "",
+        "age": -1453
+    },
+    {
+        "haplogroup": "HV10",
+        "parent": "HV",
+        "note": "",
+        "age": -1451
+    },
+    {
+        "haplogroup": "U2e2a1a",
+        "parent": "U2e2a1",
+        "note": "",
+        "age": -1423
+    },
+    {
+        "haplogroup": "T2b6",
+        "parent": "T2b6'410",
+        "note": "",
+        "age": -1422
+    },
+    {
+        "haplogroup": "U4a3a",
+        "parent": "U4a3a'b'c",
+        "note": "",
+        "age": -1416
+    },
+    {
+        "haplogroup": "J1c3j3",
+        "parent": "J1c3j",
+        "note": "",
+        "age": -1404
+    },
+    {
+        "haplogroup": "T2b6b'c'd'e",
+        "parent": "T2b6",
+        "note": "",
+        "age": -1392
+    },
+    {
+        "haplogroup": "H2a1c",
+        "parent": "H2a1",
+        "note": "",
+        "age": -1382
+    },
+    {
+        "haplogroup": "J1c4b",
+        "parent": "J1c4",
+        "note": "",
+        "age": -1342
+    },
+    {
+        "haplogroup": "H1n4",
+        "parent": "H1n+146",
+        "note": "",
+        "age": -1334
+    },
+    {
+        "haplogroup": "W1ag",
+        "parent": "W1+16295",
+        "note": "",
+        "age": -1326
+    },
+    {
+        "haplogroup": "V13",
+        "parent": "V",
+        "note": "",
+        "age": -1282
+    },
+    {
+        "haplogroup": "H1xp2",
+        "parent": "H1xp",
+        "note": "",
+        "age": -1278
+    },
+    {
+        "haplogroup": "H1xp2a'b'c'd",
+        "parent": "H1xp2",
+        "note": "",
+        "age": -1248
+    },
+    {
+        "haplogroup": "J1c1k",
+        "parent": "J1c1",
+        "note": "",
+        "age": -1240
+    },
+    {
+        "haplogroup": "HV4c'j'k'l+146",
+        "parent": "HV4c'j'k'l",
+        "note": "",
+        "age": -1238
+    },
+    {
+        "haplogroup": "J2b1a6",
+        "parent": "J2b1ak'al'am'a6",
+        "note": "",
+        "age": -1235
+    },
+    {
+        "haplogroup": "H1c1^",
+        "parent": "H1c",
+        "note": "",
+        "age": -1231
+    },
+    {
+        "haplogroup": "U5a1a1c",
+        "parent": "U5a1a1",
+        "note": "",
+        "age": -1222
+    },
+    {
+        "haplogroup": "U5a1d2a1",
+        "parent": "U5a1d2a",
+        "note": "",
+        "age": -1221
+    },
+    {
+        "haplogroup": "H1c1",
+        "parent": "H1c1^",
+        "note": "",
+        "age": -1201
+    },
+    {
+        "haplogroup": "H5a8",
+        "parent": "H5a",
+        "note": "",
+        "age": -1176
+    },
+    {
+        "haplogroup": "U4b1b1+146+16278",
+        "parent": "U4b1b1+146",
+        "note": "",
+        "age": -1155
+    },
+    {
+        "haplogroup": "H1a17",
+        "parent": "H1a+16051",
+        "note": "",
+        "age": -1141
+    },
+    {
+        "haplogroup": "J1c3a1",
+        "parent": "J1c3a",
+        "note": "",
+        "age": -1102
+    },
+    {
+        "haplogroup": "V1a1h",
+        "parent": "V1a1",
+        "note": "",
+        "age": -1093
+    },
+    {
+        "haplogroup": "K2a3i",
+        "parent": "K2a3",
+        "note": "",
+        "age": -1082
+    },
+    {
+        "haplogroup": "H5a2f",
+        "parent": "H5a2",
+        "note": "",
+        "age": -1072
+    },
+    {
+        "haplogroup": "H2a1cc",
+        "parent": "H2a1",
+        "note": "",
+        "age": -1066
+    },
+    {
+        "haplogroup": "H7b2",
+        "parent": "H7b",
+        "note": "",
+        "age": -1055
+    },
+    {
+        "haplogroup": "K1a2i",
+        "parent": "K1a2i'j",
+        "note": "",
+        "age": -1046
+    },
+    {
+        "haplogroup": "J1c4al",
+        "parent": "J1c4",
+        "note": "",
+        "age": -990
+    },
+    {
+        "haplogroup": "J1c3bs",
+        "parent": "J1c3",
+        "note": "",
+        "age": -988
+    },
+    {
+        "haplogroup": "H6a1a14",
+        "parent": "H6a1a",
+        "note": "",
+        "age": -986
+    },
+    {
+        "haplogroup": "H27f^",
+        "parent": "H27+16129",
+        "note": "",
+        "age": -892
+    },
+    {
+        "haplogroup": "H5a6a",
+        "parent": "H5a6",
+        "note": "",
+        "age": -882
+    },
+    {
+        "haplogroup": "U4a1b1",
+        "parent": "U4a1b",
+        "note": "",
+        "age": -878
+    },
+    {
+        "haplogroup": "U2e2a1a6\"23",
+        "parent": "U2e2a1a",
+        "note": "",
+        "age": -868
+    },
+    {
+        "haplogroup": "H1c20",
+        "parent": "H1c",
+        "note": "",
+        "age": -853
+    },
+    {
+        "haplogroup": "H1xp2a^",
+        "parent": "H1xp2a'b'c'd",
+        "note": "",
+        "age": -845
+    },
+    {
+        "haplogroup": "H65a",
+        "parent": "H",
+        "note": "",
+        "age": -835
+    },
+    {
+        "haplogroup": "H6a1b2n",
+        "parent": "H6a1b2",
+        "note": "",
+        "age": -796
+    },
+    {
+        "haplogroup": "H5a2f1",
+        "parent": "H5a2f",
+        "note": "",
+        "age": -782
+    },
+    {
+        "haplogroup": "V7a24^",
+        "parent": "V7a+16153",
+        "note": "",
+        "age": -779
+    },
+    {
+        "haplogroup": "V168",
+        "parent": "V",
+        "note": "",
+        "age": -774
+    },
+    {
+        "haplogroup": "U2e1b1",
+        "parent": "U2e1b1^",
+        "note": "",
+        "age": -768
+    },
+    {
+        "haplogroup": "U4a1b1e",
+        "parent": "U4a1b1",
+        "note": "",
+        "age": -754
+    },
+    {
+        "haplogroup": "U5a2b22",
+        "parent": "U5a2b",
+        "note": "",
+        "age": -743
+    },
+    {
+        "haplogroup": "H3ey",
+        "parent": "H3",
+        "note": "",
+        "age": -721
+    },
+    {
+        "haplogroup": "U3b1b3",
+        "parent": "U3b1b",
+        "note": "",
+        "age": -706
+    },
+    {
+        "haplogroup": "H10d1",
+        "parent": "H10d",
+        "note": "",
+        "age": -625
+    },
+    {
+        "haplogroup": "H3h14",
+        "parent": "H3h",
+        "note": "",
+        "age": -620
+    },
+    {
+        "haplogroup": "H1c9a",
+        "parent": "H1c9",
+        "note": "",
+        "age": -607
+    },
+    {
+        "haplogroup": "V13a",
+        "parent": "V13",
+        "note": "",
+        "age": -599
+    },
+    {
+        "haplogroup": "H3h14+146",
+        "parent": "H3h14",
+        "note": "",
+        "age": -590
+    },
+    {
+        "haplogroup": "J1b1a1d",
+        "parent": "J1b1a1d^",
+        "note": "",
+        "age": -573
+    },
+    {
+        "haplogroup": "H6a1b2ar'as",
+        "parent": "H6a1b2",
+        "note": "",
+        "age": -562
+    },
+    {
+        "haplogroup": "U5a1c2a1h",
+        "parent": "U5a1c2a1",
+        "note": "",
+        "age": -542
+    },
+    {
+        "haplogroup": "H3b13",
+        "parent": "H3b",
+        "note": "",
+        "age": -536
+    },
+    {
+        "haplogroup": "J1c3j1",
+        "parent": "J1c3j",
+        "note": "",
+        "age": -516
+    },
+    {
+        "haplogroup": "T2b6d",
+        "parent": "T2b6b'c'd'e",
+        "note": "",
+        "age": -512
+    },
+    {
+        "haplogroup": "U5a1c2a1h1",
+        "parent": "U5a1c2a1h",
+        "note": "",
+        "age": -512
+    },
+    {
+        "haplogroup": "H1b1cb",
+        "parent": "H1b1",
+        "note": "",
+        "age": -510
+    },
+    {
+        "haplogroup": "H5r",
+        "parent": "H5r^",
+        "note": "",
+        "age": -476
+    },
+    {
+        "haplogroup": "U7b34c^",
+        "parent": "U7b34",
+        "note": "",
+        "age": -462
+    },
+    {
+        "haplogroup": "J2a1a2a1a",
+        "parent": "J2a1a2a1",
+        "note": "",
+        "age": -447
+    },
+    {
+        "haplogroup": "H73a",
+        "parent": "H73",
+        "note": "",
+        "age": -426
+    },
+    {
+        "haplogroup": "H27f",
+        "parent": "H27f^",
+        "note": "",
+        "age": -396
+    },
+    {
+        "haplogroup": "H73a1",
+        "parent": "H73a",
+        "note": "",
+        "age": -396
+    },
+    {
+        "haplogroup": "H6a1a118b",
+        "parent": "H6a1a118",
+        "note": "",
+        "age": -390
+    },
+    {
+        "haplogroup": "J1c1b1a3a",
+        "parent": "J1c1b1a3",
+        "note": "",
+        "age": -386
+    },
+    {
+        "haplogroup": "H27f3'4^",
+        "parent": "H27f",
+        "note": "",
+        "age": -366
+    },
+    {
+        "haplogroup": "T2e5",
+        "parent": "T2e5'61",
+        "note": "",
+        "age": -352
+    },
+    {
+        "haplogroup": "H5a1l'ay'dn",
+        "parent": "H5a1",
+        "note": "",
+        "age": -340
+    },
+    {
+        "haplogroup": "H27f3'4",
+        "parent": "H27f3'4^",
+        "note": "",
+        "age": -336
+    },
+    {
+        "haplogroup": "J1c1d",
+        "parent": "J1c1",
+        "note": "",
+        "age": -334
+    },
+    {
+        "haplogroup": "T2f2c",
+        "parent": "T2f2a\"k",
+        "note": "",
+        "age": -328
+    },
+    {
+        "haplogroup": "H2a1c11",
+        "parent": "H2a1c",
+        "note": "",
+        "age": -327
+    },
+    {
+        "haplogroup": "H5a1l",
+        "parent": "H5a1l'ay'dn",
+        "note": "",
+        "age": -310
+    },
+    {
+        "haplogroup": "T1a1k1",
+        "parent": "T1a1k1^",
+        "note": "",
+        "age": -298
+    },
+    {
+        "haplogroup": "H1ay1a",
+        "parent": "H1ay1",
+        "note": "",
+        "age": -256
+    },
+    {
+        "haplogroup": "H10a5",
+        "parent": "H10a",
+        "note": "",
+        "age": -228
+    },
+    {
+        "haplogroup": "H1ay1a2'4",
+        "parent": "H1ay1a",
+        "note": "",
+        "age": -226
+    },
+    {
+        "haplogroup": "T1a47",
+        "parent": "T1a",
+        "note": "",
+        "age": -147
+    },
+    {
+        "haplogroup": "H1xp2a",
+        "parent": "H1xp2a^",
+        "note": "",
+        "age": -115
+    },
+    {
+        "haplogroup": "H6a1b2ar",
+        "parent": "H6a1b2ar'as",
+        "note": "",
+        "age": -94
+    },
+    {
+        "haplogroup": "HV0ai",
+        "parent": "HV0ai'bs",
+        "note": "",
+        "age": -86
+    },
+    {
+        "haplogroup": "U5b1aw",
+        "parent": "U5b1",
+        "note": "",
+        "age": 14
+    },
+    {
+        "haplogroup": "H40k1",
+        "parent": "H40k",
+        "note": "",
+        "age": 27
+    },
+    {
+        "haplogroup": "V1a1h1",
+        "parent": "V1a1h",
+        "note": "",
+        "age": 28
+    },
+    {
+        "haplogroup": "J1c14^",
+        "parent": "J1c14'39",
+        "note": "",
+        "age": 30
+    },
+    {
+        "haplogroup": "J1c14",
+        "parent": "J1c14^",
+        "note": "",
+        "age": 60
+    },
+    {
+        "haplogroup": "D4a1e1",
+        "parent": "D4a1e1^",
+        "note": "",
+        "age": 63
+    },
+    {
+        "haplogroup": "H2a2a1a3",
+        "parent": "H2a2a1a",
+        "note": "",
+        "age": 69
+    },
+    {
+        "haplogroup": "H47l1",
+        "parent": "H47l",
+        "note": "",
+        "age": 77
+    },
+    {
+        "haplogroup": "H3ey1^",
+        "parent": "H3ey",
+        "note": "",
+        "age": 94
+    },
+    {
+        "haplogroup": "K1a4w1",
+        "parent": "K1a4w",
+        "note": "",
+        "age": 134
+    },
+    {
+        "haplogroup": "U2e1b4e1a",
+        "parent": "U2e1b4e1",
+        "note": "",
+        "age": 140
+    },
+    {
+        "haplogroup": "J1c11b",
+        "parent": "J1c11",
+        "note": "",
+        "age": 194
+    },
+    {
+        "haplogroup": "H2a1a7",
+        "parent": "H2a1a",
+        "note": "",
+        "age": 204
+    },
+    {
+        "haplogroup": "N1a1a1a1j",
+        "parent": "N1a1a1a1a\"n",
+        "note": "",
+        "age": 222
+    },
+    {
+        "haplogroup": "T2am1",
+        "parent": "T2am",
+        "note": "",
+        "age": 227
+    },
+    {
+        "haplogroup": "K1a4c1h",
+        "parent": "K1a4c1",
+        "note": "",
+        "age": 229
+    },
+    {
+        "haplogroup": "H10d1a",
+        "parent": "H10d1",
+        "note": "",
+        "age": 268
+    },
+    {
+        "haplogroup": "V13a1",
+        "parent": "V13a",
+        "note": "",
+        "age": 272
+    },
+    {
+        "haplogroup": "J1c1d4",
+        "parent": "J1c1d",
+        "note": "",
+        "age": 300
+    },
+    {
+        "haplogroup": "J1c1b1a3a1",
+        "parent": "J1c1b1a3a",
+        "note": "",
+        "age": 350
+    },
+    {
+        "haplogroup": "T2b4bq",
+        "parent": "T2b4+152",
+        "note": "",
+        "age": 369
+    },
+    {
+        "haplogroup": "H3b13a",
+        "parent": "H3b13",
+        "note": "",
+        "age": 379
+    },
+    {
+        "haplogroup": "H16ar",
+        "parent": "H16+16189+10394",
+        "note": "",
+        "age": 399
+    },
+    {
+        "haplogroup": "H1c9a1",
+        "parent": "H1c9a",
+        "note": "",
+        "age": 429
+    },
+    {
+        "haplogroup": "H85d1",
+        "parent": "H85d",
+        "note": "",
+        "age": 433
+    },
+    {
+        "haplogroup": "U4a3a6",
+        "parent": "U4a3a",
+        "note": "",
+        "age": 477
+    },
+    {
+        "haplogroup": "H5a1a23^",
+        "parent": "H5a1a",
+        "note": "",
+        "age": 479
+    },
+    {
+        "haplogroup": "T2b45+16362",
+        "parent": "T2b45",
+        "note": "",
+        "age": 490
+    },
+    {
+        "haplogroup": "H6a1b2n2",
+        "parent": "H6a1b2n",
+        "note": "",
+        "age": 563
+    },
+    {
+        "haplogroup": "V17h",
+        "parent": "V17",
+        "note": "",
+        "age": 632
+    },
+    {
+        "haplogroup": "U5a1d2a1e",
+        "parent": "U5a1d2a1",
+        "note": "",
+        "age": 739
+    },
+    {
+        "haplogroup": "J1c3j3b",
+        "parent": "J1c3j3",
+        "note": "",
+        "age": 746
+    },
+    {
+        "haplogroup": "U2e2a1a11",
+        "parent": "U2e2a1a6\"23",
+        "note": "",
+        "age": 761
+    },
+    {
+        "haplogroup": "W1ag2",
+        "parent": "W1ag",
+        "note": "",
+        "age": 779
+    },
+    {
+        "haplogroup": "U4b1a2i",
+        "parent": "U4b1a2",
+        "note": "",
+        "age": 819
+    },
+    {
+        "haplogroup": "J1c3a1h",
+        "parent": "J1c3a1",
+        "note": "",
+        "age": 838
+    },
+    {
+        "haplogroup": "U1a1b4+93",
+        "parent": "U1a1b4",
+        "note": "",
+        "age": 871
+    },
+    {
+        "haplogroup": "H1ay1a2",
+        "parent": "H1ay1a2'4",
+        "note": "",
+        "age": 887
+    },
+    {
+        "haplogroup": "H1c9a1+16189",
+        "parent": "H1c9a1",
+        "note": "",
+        "age": 911
+    },
+    {
+        "haplogroup": "H1ay1a2a",
+        "parent": "H1ay1a2",
+        "note": "",
+        "age": 917
+    },
+    {
+        "haplogroup": "H27f3",
+        "parent": "H27f3'4",
+        "note": "",
+        "age": 948
+    },
+    {
+        "haplogroup": "H1ma",
+        "parent": "H1ma'xg",
+        "note": "",
+        "age": 957
+    },
+    {
+        "haplogroup": "H27f3+152",
+        "parent": "H27f3",
+        "note": "",
+        "age": 978
+    },
+    {
+        "haplogroup": "H3ey1",
+        "parent": "H3ey1^",
+        "note": "",
+        "age": 1006
+    },
+    {
+        "haplogroup": "J1b1a1d3",
+        "parent": "J1b1a1d",
+        "note": "",
+        "age": 1006
+    },
+    {
+        "haplogroup": "H1b1cb1^",
+        "parent": "H1b1cb",
+        "note": "",
+        "age": 1018
+    },
+    {
+        "haplogroup": "U5b1e1g2",
+        "parent": "U5b1e1g",
+        "note": "",
+        "age": 1021
+    },
+    {
+        "haplogroup": "U7b34c",
+        "parent": "U7b34c^",
+        "note": "",
+        "age": 1022
+    },
+    {
+        "haplogroup": "H85d1+207",
+        "parent": "H85d1",
+        "note": "",
+        "age": 1063
+    },
+    {
+        "haplogroup": "U5a2a1b5",
+        "parent": "U5a2a1b",
+        "note": "",
+        "age": 1065
+    },
+    {
+        "haplogroup": "H5a1cf",
+        "parent": "H5a1",
+        "note": "",
+        "age": 1124
+    },
+    {
+        "haplogroup": "U5a1d2a1e+16192",
+        "parent": "U5a1d2a1e",
+        "note": "",
+        "age": 1144
+    },
+    {
+        "haplogroup": "H47l1a",
+        "parent": "H47l1",
+        "note": "",
+        "age": 1150
+    },
+    {
+        "haplogroup": "J1c14+16355",
+        "parent": "J1c14",
+        "note": "",
+        "age": 1180
+    },
+    {
+        "haplogroup": "T2b4bq+152",
+        "parent": "T2b4bq",
+        "note": "",
+        "age": 1242
+    },
+    {
+        "haplogroup": "H5a1l1",
+        "parent": "H5a1l",
+        "note": "",
+        "age": 1268
+    },
+    {
+        "haplogroup": "T2a1c3",
+        "parent": "T2a1c3^",
+        "note": "",
+        "age": 1289
+    },
+    {
+        "haplogroup": "T2f2c1",
+        "parent": "T2f2c",
+        "note": "",
+        "age": 1313
+    },
+    {
+        "haplogroup": "J1c11b1",
+        "parent": "J1c11b",
+        "note": "",
+        "age": 1373
+    },
+    {
+        "haplogroup": "K1a4c1h1",
+        "parent": "K1a4c1h",
+        "note": "",
+        "age": 1411
+    },
+    {
+        "haplogroup": "H30a6",
+        "parent": "H30a1'2'4'5'6",
+        "note": "",
+        "age": 1416
+    },
+    {
+        "haplogroup": "H1n4n",
+        "parent": "H1n4",
+        "note": "",
+        "age": 1478
+    },
+    {
+        "haplogroup": "H5a2f1a",
+        "parent": "H5a2f1",
+        "note": "",
+        "age": 1560
+    },
+    {
+        "haplogroup": "H2a2a1a3a",
+        "parent": "H2a2a1a3",
+        "note": "",
+        "age": 1602
+    },
+    {
+        "haplogroup": "H6a1b2ar1",
+        "parent": "H6a1b2ar",
+        "note": "",
+        "age": 1640
+    },
+    {
+        "haplogroup": "K1b2a1j",
+        "parent": "K1b2a1",
+        "note": "",
+        "age": 1670
+    },
+    {
+        "haplogroup": "K1a4w1+151",
+        "parent": "K1a4w1",
+        "note": "",
+        "age": 1688
+    },
+    {
+        "haplogroup": "H1c20b",
+        "parent": "H1c20",
+        "note": "",
+        "age": 1920
+    },
+    {
+        "haplogroup": "H5r1",
+        "parent": "H5r",
+        "note": "",
+        "age": 1920
+    },
+    {
+        "haplogroup": "J2a1a2a1a2",
+        "parent": "J2a1a2a1a",
+        "note": "",
+        "age": 1920
+    },
+    {
+        "haplogroup": "V7a24",
+        "parent": "V7a24^",
+        "note": "",
+        "age": 1920
+    }
+]
