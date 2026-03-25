@@ -1386,6 +1386,12 @@
         "age": -5436
     },
     {
+        "haplogroup": "H65",
+        "parent": "H",
+        "note": "",
+        "age": -5425
+    },
+    {
         "haplogroup": "H5a",
         "parent": "H5",
         "note": "",
@@ -2140,6 +2146,12 @@
         "parent": "V7a",
         "note": "",
         "age": -2251
+    },
+    {
+        "haplogroup": "H17",
+        "parent": "H",
+        "note": "",
+        "age": -2231
     },
     {
         "haplogroup": "H5a6",
