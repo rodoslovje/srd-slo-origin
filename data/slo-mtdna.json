@@ -1296,18 +1296,6 @@
         "longitude": 16.44
     },
     {
-        "kit": "B432175",
-        "group": "",
-        "haplogroup": "D4a1e1",
-        "haplotype": "F3898177",
-        "surname": "Hiramatsu",
-        "ancestor": "Juka Kageyama 蔭山ジュカ (1846-1935)",
-        "location": "日本、〒861-3207 熊本県上益城郡御船町御船",
-        "country": "jp",
-        "latitude": 32.71,
-        "longitude": 130.79
-    },
-    {
         "kit": "B433578",
         "group": "",
         "haplogroup": "",
@@ -5444,18 +5432,6 @@
         "ancestor": "",
         "location": "",
         "country": "",
-        "latitude": 0.0,
-        "longitude": 0.0
-    },
-    {
-        "kit": "IN85958",
-        "group": "",
-        "haplogroup": "L0a1c1^",
-        "haplotype": "F7990938",
-        "surname": "Hassan",
-        "ancestor": "",
-        "location": "",
-        "country": "sa",
         "latitude": 0.0,
         "longitude": 0.0
     },
