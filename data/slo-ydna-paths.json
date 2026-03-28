@@ -336,6 +336,12 @@
         "age": -20106
     },
     {
+        "haplogroup": "N-F2049",
+        "parent": "N-M231",
+        "note": "",
+        "age": -19942
+    },
+    {
         "haplogroup": "D-M64",
         "parent": "D-Z3660",
         "note": "",
@@ -414,6 +420,12 @@
         "age": -16617
     },
     {
+        "haplogroup": "N-L735",
+        "parent": "N-F2049",
+        "note": "N1",
+        "age": -16390
+    },
+    {
         "haplogroup": "I-P214",
         "parent": "I-L460",
         "note": "",
@@ -454,6 +466,12 @@
         "parent": "R-L754",
         "note": "",
         "age": -15257
+    },
+    {
+        "haplogroup": "N-L729",
+        "parent": "N-L735",
+        "note": "",
+        "age": -15155
     },
     {
         "haplogroup": "R-L389",
@@ -504,6 +522,12 @@
         "age": -14396
     },
     {
+        "haplogroup": "J-Z6064",
+        "parent": "J-L26",
+        "note": "",
+        "age": -14306
+    },
+    {
         "haplogroup": "J-PF5088",
         "parent": "J-L26",
         "note": "",
@@ -520,6 +544,18 @@
         "parent": "J-PF5088",
         "note": "",
         "age": -13946
+    },
+    {
+        "haplogroup": "N-P105",
+        "parent": "N-L729",
+        "note": "",
+        "age": -13937
+    },
+    {
+        "haplogroup": "J-Y6858",
+        "parent": "J-Z6064",
+        "note": "",
+        "age": -13856
     },
     {
         "haplogroup": "I-CTS413",
@@ -648,6 +684,12 @@
         "age": -11585
     },
     {
+        "haplogroup": "N-M178",
+        "parent": "N-P105",
+        "note": "",
+        "age": -11515
+    },
+    {
         "haplogroup": "J-Z1846",
         "parent": "J-Z2227",
         "note": "",
@@ -706,6 +748,12 @@
         "parent": "T-Z19859",
         "note": "",
         "age": -10354
+    },
+    {
+        "haplogroup": "N-Tat",
+        "parent": "N-M178",
+        "note": "",
+        "age": -10298
     },
     {
         "haplogroup": "I-CTS5375",
@@ -786,6 +834,24 @@
         "age": -9815
     },
     {
+        "haplogroup": "J-Z6061",
+        "parent": "J-Y6858",
+        "note": "",
+        "age": -9789
+    },
+    {
+        "haplogroup": "J-Z6057",
+        "parent": "J-Z6061",
+        "note": "",
+        "age": -9691
+    },
+    {
+        "haplogroup": "N-F1419",
+        "parent": "N-Tat",
+        "note": "",
+        "age": -9672
+    },
+    {
         "haplogroup": "H-Z19072",
         "parent": "H-SK1180",
         "note": "",
@@ -796,6 +862,12 @@
         "parent": "I-CTS3276",
         "note": "",
         "age": -9530
+    },
+    {
+        "haplogroup": "J-Y7011",
+        "parent": "J-Z6057",
+        "note": "",
+        "age": -9466
     },
     {
         "haplogroup": "J-Z1874",
@@ -858,6 +930,12 @@
         "age": -8725
     },
     {
+        "haplogroup": "G-CTS342",
+        "parent": "G-PF3345",
+        "note": "",
+        "age": -8511
+    },
+    {
         "haplogroup": "J-Z6273",
         "parent": "J-S25258",
         "note": "",
@@ -874,6 +952,12 @@
         "parent": "L-M317",
         "note": "",
         "age": -7911
+    },
+    {
+        "haplogroup": "G-CTS8476",
+        "parent": "G-CTS342",
+        "note": "",
+        "age": -7882
     },
     {
         "haplogroup": "N-P189",
@@ -1008,6 +1092,12 @@
         "age": -6421
     },
     {
+        "haplogroup": "N-L839",
+        "parent": "N-F1419",
+        "note": "",
+        "age": -6407
+    },
+    {
         "haplogroup": "G-PF3293",
         "parent": "G-PF3299",
         "note": "",
@@ -1036,6 +1126,12 @@
         "parent": "G-PF3299",
         "note": "",
         "age": -6233
+    },
+    {
+        "haplogroup": "G-S10654",
+        "parent": "G-CTS8476",
+        "note": "",
+        "age": -6180
     },
     {
         "haplogroup": "J-S4924",
@@ -1074,6 +1170,12 @@
         "age": -5806
     },
     {
+        "haplogroup": "N-L708",
+        "parent": "N-L839",
+        "note": "",
+        "age": -5782
+    },
+    {
         "haplogroup": "T-CTS10803",
         "parent": "T-CTS933",
         "note": "",
@@ -1084,6 +1186,12 @@
         "parent": "T-CTS10803",
         "note": "",
         "age": -5721
+    },
+    {
+        "haplogroup": "G-Z3440",
+        "parent": "G-S10654",
+        "note": "",
+        "age": -5693
     },
     {
         "haplogroup": "T-Z19890",
@@ -1132,6 +1240,12 @@
         "parent": "L-FGC36819",
         "note": "",
         "age": -5428
+    },
+    {
+        "haplogroup": "N-M2005",
+        "parent": "N-L708",
+        "note": "",
+        "age": -5063
     },
     {
         "haplogroup": "H-Z19049",
@@ -1192,6 +1306,12 @@
         "parent": "G-Y2724",
         "note": "",
         "age": -4586
+    },
+    {
+        "haplogroup": "N-CTS9239",
+        "parent": "N-M2005",
+        "note": "",
+        "age": -4522
     },
     {
         "haplogroup": "R-M269",
@@ -1282,6 +1402,18 @@
         "parent": "J-M241",
         "note": "",
         "age": -3906
+    },
+    {
+        "haplogroup": "N-L1026",
+        "parent": "N-CTS9239",
+        "note": "",
+        "age": -3902
+    },
+    {
+        "haplogroup": "N-F4342",
+        "parent": "N-L1026",
+        "note": "",
+        "age": -3874
     },
     {
         "haplogroup": "I-S19848",
@@ -1396,6 +1528,12 @@
         "parent": "J-Z585",
         "note": "",
         "age": -3079
+    },
+    {
+        "haplogroup": "N-CTS6967",
+        "parent": "N-F4342",
+        "note": "",
+        "age": -3069
     },
     {
         "haplogroup": "J-Z8418",
@@ -1596,6 +1734,12 @@
         "age": -2661
     },
     {
+        "haplogroup": "N-CTS3103",
+        "parent": "N-CTS6967",
+        "note": "",
+        "age": -2657
+    },
+    {
         "haplogroup": "G-BY794",
         "parent": "G-M3103",
         "note": "",
@@ -1626,10 +1770,28 @@
         "age": -2643
     },
     {
+        "haplogroup": "G-CTS5990",
+        "parent": "G-Z3440",
+        "note": "",
+        "age": -2635
+    },
+    {
         "haplogroup": "I-S63",
         "parent": "I-L840",
         "note": "",
         "age": -2630
+    },
+    {
+        "haplogroup": "N-Y6058",
+        "parent": "N-CTS3103",
+        "note": "",
+        "age": -2630
+    },
+    {
+        "haplogroup": "R-L238",
+        "parent": "R-P312",
+        "note": "",
+        "age": -2626
     },
     {
         "haplogroup": "R-ZZ12_1",
@@ -1710,6 +1872,12 @@
         "age": -2532
     },
     {
+        "haplogroup": "R-Z56",
+        "parent": "R-U152",
+        "note": "",
+        "age": -2528
+    },
+    {
         "haplogroup": "R-Z46513",
         "parent": "R-Z198",
         "note": "",
@@ -1720,6 +1888,18 @@
         "parent": "R-FTT1",
         "note": "",
         "age": -2512
+    },
+    {
+        "haplogroup": "G-Y334",
+        "parent": "G-CTS5990",
+        "note": "",
+        "age": -2509
+    },
+    {
+        "haplogroup": "N-CTS10760",
+        "parent": "N-Y6058",
+        "note": "",
+        "age": -2507
     },
     {
         "haplogroup": "R-Z2124",
@@ -1788,16 +1968,40 @@
         "age": -2433
     },
     {
+        "haplogroup": "R-FGC13959",
+        "parent": "R-Z301",
+        "note": "",
+        "age": -2433
+    },
+    {
         "haplogroup": "I-Z58",
         "parent": "I-DF29",
         "note": "",
         "age": -2427
     },
     {
+        "haplogroup": "I-Y2592",
+        "parent": "I-DF29",
+        "note": "",
+        "age": -2425
+    },
+    {
         "haplogroup": "R-FGC82884",
         "parent": "R-Z93",
         "note": "",
         "age": -2418
+    },
+    {
+        "haplogroup": "R-BY3548",
+        "parent": "R-Z56",
+        "note": "",
+        "age": -2413
+    },
+    {
+        "haplogroup": "R-Z2245",
+        "parent": "R-L238",
+        "note": "",
+        "age": -2412
     },
     {
         "haplogroup": "E-BY4877",
@@ -1864,6 +2068,12 @@
         "parent": "I-Z59",
         "note": "",
         "age": -2317
+    },
+    {
+        "haplogroup": "G-CTS7045",
+        "parent": "G-Y334",
+        "note": "",
+        "age": -2314
     },
     {
         "haplogroup": "I-Z63",
@@ -1938,6 +2148,12 @@
         "age": -2256
     },
     {
+        "haplogroup": "I-CTS6364",
+        "parent": "I-Y2592",
+        "note": "",
+        "age": -2250
+    },
+    {
         "haplogroup": "J-Z1296",
         "parent": "J-Z2507",
         "note": "",
@@ -1962,6 +2178,12 @@
         "age": -2229
     },
     {
+        "haplogroup": "R-Z2247",
+        "parent": "R-Z2245",
+        "note": "",
+        "age": -2225
+    },
+    {
         "haplogroup": "E-BY3880",
         "parent": "E-BY4877",
         "note": "",
@@ -1972,6 +2194,12 @@
         "parent": "R-Z49",
         "note": "",
         "age": -2222
+    },
+    {
+        "haplogroup": "R-Z43",
+        "parent": "R-BY3548",
+        "note": "",
+        "age": -2220
     },
     {
         "haplogroup": "G-Z17084",
@@ -2004,6 +2232,18 @@
         "age": -2216
     },
     {
+        "haplogroup": "I-BY351",
+        "parent": "I-BY151",
+        "note": "",
+        "age": -2212
+    },
+    {
+        "haplogroup": "I-CTS10028",
+        "parent": "I-CTS6364",
+        "note": "",
+        "age": -2206
+    },
+    {
         "haplogroup": "I-A12798",
         "parent": "I-Z59",
         "note": "",
@@ -2014,6 +2254,18 @@
         "parent": "D-M125",
         "note": "",
         "age": -2202
+    },
+    {
+        "haplogroup": "R-Y4356",
+        "parent": "R-S8183",
+        "note": "",
+        "age": -2196
+    },
+    {
+        "haplogroup": "R-FT15337",
+        "parent": "R-Z43",
+        "note": "",
+        "age": -2195
     },
     {
         "haplogroup": "J-Z38240",
@@ -2070,6 +2322,12 @@
         "age": -2159
     },
     {
+        "haplogroup": "I-S6346",
+        "parent": "I-CTS10028",
+        "note": "",
+        "age": -2156
+    },
+    {
         "haplogroup": "I-BY157528",
         "parent": "I-Z59",
         "note": "",
@@ -2088,6 +2346,12 @@
         "age": -2148
     },
     {
+        "haplogroup": "I-Z2041",
+        "parent": "I-Z59",
+        "note": "",
+        "age": -2147
+    },
+    {
         "haplogroup": "I-L1425",
         "parent": "I-CTS6433",
         "note": "",
@@ -2098,6 +2362,12 @@
         "parent": "R-Z304",
         "note": "",
         "age": -2146
+    },
+    {
+        "haplogroup": "R-CTS11638",
+        "parent": "R-Z2247",
+        "note": "",
+        "age": -2129
     },
     {
         "haplogroup": "R-PF7521",
@@ -2136,6 +2406,12 @@
         "age": -2092
     },
     {
+        "haplogroup": "R-BY3544",
+        "parent": "R-FT15337",
+        "note": "",
+        "age": -2090
+    },
+    {
         "haplogroup": "G-L42",
         "parent": "G-L43",
         "note": "",
@@ -2152,6 +2428,18 @@
         "parent": "R-Z304",
         "note": "",
         "age": -2082
+    },
+    {
+        "haplogroup": "J-FT103684",
+        "parent": "J-Z38241",
+        "note": "",
+        "age": -2080
+    },
+    {
+        "haplogroup": "R-Y4353",
+        "parent": "R-Y4356",
+        "note": "",
+        "age": -2074
     },
     {
         "haplogroup": "R-Y5587",
@@ -2190,6 +2478,12 @@
         "age": -2037
     },
     {
+        "haplogroup": "I-BY332",
+        "parent": "I-BY351",
+        "note": "",
+        "age": -2029
+    },
+    {
         "haplogroup": "R-CTS3402",
         "parent": "R-Y35",
         "note": "",
@@ -2224,6 +2518,12 @@
         "parent": "R-FT18317",
         "note": "",
         "age": -1998
+    },
+    {
+        "haplogroup": "I-Z2040",
+        "parent": "I-Z2041",
+        "note": "",
+        "age": -1991
     },
     {
         "haplogroup": "R-FGC2608",
@@ -2262,6 +2562,12 @@
         "age": -1968
     },
     {
+        "haplogroup": "J-L70",
+        "parent": "J-CTS1192",
+        "note": "",
+        "age": -1961
+    },
+    {
         "haplogroup": "R-Y4459",
         "parent": "R-Z92",
         "note": "",
@@ -2278,6 +2584,12 @@
         "parent": "R-Z331",
         "note": "",
         "age": -1946
+    },
+    {
+        "haplogroup": "I-L22",
+        "parent": "I-S6346",
+        "note": "",
+        "age": -1944
     },
     {
         "haplogroup": "R-Z27",
@@ -2310,6 +2622,18 @@
         "age": -1918
     },
     {
+        "haplogroup": "N-CTS2929",
+        "parent": "N-CTS10760",
+        "note": "",
+        "age": -1916
+    },
+    {
+        "haplogroup": "I-CTS7362",
+        "parent": "I-Z60",
+        "note": "",
+        "age": -1915
+    },
+    {
         "haplogroup": "R-Z159",
         "parent": "R-Z160",
         "note": "",
@@ -2332,6 +2656,12 @@
         "parent": "I-Z140",
         "note": "",
         "age": -1886
+    },
+    {
+        "haplogroup": "J-PF5430",
+        "parent": "J-L70",
+        "note": "",
+        "age": -1881
     },
     {
         "haplogroup": "R-Y33",
@@ -2370,6 +2700,12 @@
         "age": -1851
     },
     {
+        "haplogroup": "J-FTA60432",
+        "parent": "J-FT103684",
+        "note": "",
+        "age": -1841
+    },
+    {
         "haplogroup": "G-S2808",
         "parent": "G-CTS4803",
         "note": "",
@@ -2386,6 +2722,12 @@
         "parent": "R-Z345",
         "note": "",
         "age": -1810
+    },
+    {
+        "haplogroup": "I-Z2338",
+        "parent": "I-L22",
+        "note": "",
+        "age": -1808
     },
     {
         "haplogroup": "I-Z2535",
@@ -2436,6 +2778,12 @@
         "age": -1771
     },
     {
+        "haplogroup": "R-S1523",
+        "parent": "R-BY3544",
+        "note": "",
+        "age": -1770
+    },
+    {
         "haplogroup": "R-BY1246",
         "parent": "R-A2146",
         "note": "",
@@ -2458,6 +2806,12 @@
         "parent": "I-S2077",
         "note": "",
         "age": -1746
+    },
+    {
+        "haplogroup": "J-Z435",
+        "parent": "J-PF5430",
+        "note": "",
+        "age": -1743
     },
     {
         "haplogroup": "R-S6924",
@@ -2488,6 +2842,18 @@
         "parent": "J-Z38241",
         "note": "",
         "age": -1720
+    },
+    {
+        "haplogroup": "R-FGC11514",
+        "parent": "R-Y2898",
+        "note": "",
+        "age": -1709
+    },
+    {
+        "haplogroup": "I-S25366",
+        "parent": "I-Z2338",
+        "note": "",
+        "age": -1707
     },
     {
         "haplogroup": "I-FTT66",
@@ -2526,6 +2892,12 @@
         "age": -1692
     },
     {
+        "haplogroup": "R-FTF46219",
+        "parent": "R-FGC11514",
+        "note": "",
+        "age": -1691
+    },
+    {
         "haplogroup": "I-Y59728",
         "parent": "I-FGC9506",
         "note": "",
@@ -2562,6 +2934,12 @@
         "age": -1658
     },
     {
+        "haplogroup": "E-L17",
+        "parent": "E-Z5018",
+        "note": "",
+        "age": -1654
+    },
+    {
         "haplogroup": "G-YSC0000033",
         "parent": "G-Y11074",
         "note": "",
@@ -2592,6 +2970,12 @@
         "age": -1626
     },
     {
+        "haplogroup": "R-Y11663",
+        "parent": "R-CTS11638",
+        "note": "",
+        "age": -1625
+    },
+    {
         "haplogroup": "G-S11415",
         "parent": "G-FGC41427",
         "note": "",
@@ -2600,6 +2984,12 @@
     {
         "haplogroup": "I-A1914",
         "parent": "I-FGC23806",
+        "note": "",
+        "age": -1604
+    },
+    {
+        "haplogroup": "I-P109",
+        "parent": "I-S25366",
         "note": "",
         "age": -1604
     },
@@ -2626,6 +3016,12 @@
         "parent": "R-Z7",
         "note": "",
         "age": -1590
+    },
+    {
+        "haplogroup": "N-S23232",
+        "parent": "N-CTS2929",
+        "note": "",
+        "age": -1583
     },
     {
         "haplogroup": "R-FT18496",
@@ -2662,6 +3058,12 @@
         "parent": "R-BY3510",
         "note": "",
         "age": -1499
+    },
+    {
+        "haplogroup": "I-S10891",
+        "parent": "I-P109",
+        "note": "",
+        "age": -1497
     },
     {
         "haplogroup": "I-BY3760",
@@ -2754,6 +3156,12 @@
         "age": -1383
     },
     {
+        "haplogroup": "I-FGC21732",
+        "parent": "I-S10891",
+        "note": "",
+        "age": -1380
+    },
+    {
         "haplogroup": "G-FTB40106",
         "parent": "G-Z6150",
         "note": "",
@@ -2822,6 +3230,12 @@
     {
         "haplogroup": "H-Y21630",
         "parent": "H-Y20839",
+        "note": "",
+        "age": -1258
+    },
+    {
+        "haplogroup": "I-L1450",
+        "parent": "I-Z2040",
         "note": "",
         "age": -1258
     },
@@ -2958,6 +3372,12 @@
         "age": -1011
     },
     {
+        "haplogroup": "R-Z319",
+        "parent": "R-FGC10367",
+        "note": "",
+        "age": -1006
+    },
+    {
         "haplogroup": "R-BY60752",
         "parent": "R-BY43400",
         "note": "",
@@ -2976,10 +3396,22 @@
         "age": -990
     },
     {
+        "haplogroup": "R-Z8171",
+        "parent": "R-Z319",
+        "note": "",
+        "age": -987
+    },
+    {
         "haplogroup": "I-Y6229",
         "parent": "I-Y6228",
         "note": "",
         "age": -984
+    },
+    {
+        "haplogroup": "I-FGC12752",
+        "parent": "I-L1450",
+        "note": "",
+        "age": -978
     },
     {
         "haplogroup": "J-Z631",
@@ -3036,6 +3468,18 @@
         "age": -931
     },
     {
+        "haplogroup": "N-L550",
+        "parent": "N-S23232",
+        "note": "",
+        "age": -931
+    },
+    {
+        "haplogroup": "R-CTS2509",
+        "parent": "R-Z8171",
+        "note": "",
+        "age": -927
+    },
+    {
         "haplogroup": "R-FGC17298",
         "parent": "R-S3251",
         "note": "",
@@ -3058,6 +3502,12 @@
         "parent": "J-Z1043",
         "note": "",
         "age": -898
+    },
+    {
+        "haplogroup": "J-FTB2687",
+        "parent": "J-FTA60432",
+        "note": "",
+        "age": -895
     },
     {
         "haplogroup": "R-BY41548",
@@ -3142,6 +3592,12 @@
         "parent": "R-Y17179",
         "note": "",
         "age": -748
+    },
+    {
+        "haplogroup": "R-BY781",
+        "parent": "R-Y11663",
+        "note": "",
+        "age": -747
     },
     {
         "haplogroup": "E-BY77647",
@@ -3246,6 +3702,12 @@
         "age": -405
     },
     {
+        "haplogroup": "R-L1280",
+        "parent": "R-FTF46219",
+        "note": "",
+        "age": -382
+    },
+    {
         "haplogroup": "I-FT140572",
         "parent": "I-FT138654",
         "note": "",
@@ -3342,6 +3804,12 @@
         "age": -204
     },
     {
+        "haplogroup": "R-BY4683",
+        "parent": "R-BY781",
+        "note": "",
+        "age": -199
+    },
+    {
         "haplogroup": "R-Y10810",
         "parent": "R-FT16632",
         "note": "",
@@ -3402,6 +3870,12 @@
         "age": -111
     },
     {
+        "haplogroup": "R-Y2905",
+        "parent": "R-FT5104",
+        "note": "",
+        "age": -77
+    },
+    {
         "haplogroup": "I-Y10890",
         "parent": "I-Y7278",
         "note": "",
@@ -3448,6 +3922,12 @@
         "parent": "R-YP418",
         "note": "",
         "age": -25
+    },
+    {
+        "haplogroup": "I-L1452",
+        "parent": "I-FGC12752",
+        "note": "",
+        "age": -12
     },
     {
         "haplogroup": "R-Y3219",
@@ -4116,6 +4596,12 @@
         "age": 824
     },
     {
+        "haplogroup": "I-Y3573",
+        "parent": "I-L1452",
+        "note": "",
+        "age": 827
+    },
+    {
         "haplogroup": "R-FT288648",
         "parent": "R-FT24161",
         "note": "",
@@ -4144,6 +4630,12 @@
         "parent": "E-BY55855",
         "note": "",
         "age": 956
+    },
+    {
+        "haplogroup": "I-L1451",
+        "parent": "I-Y3573",
+        "note": "",
+        "age": 965
     },
     {
         "haplogroup": "R-BY93569",
