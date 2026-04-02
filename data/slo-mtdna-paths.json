@@ -36,12 +36,6 @@
         "age": -114894
     },
     {
-        "haplogroup": "L0a\"m^",
-        "parent": "L0",
-        "note": "",
-        "age": -111896
-    },
-    {
         "haplogroup": "L1",
         "parent": "L1\"7",
         "note": "",
@@ -66,12 +60,6 @@
         "age": -96458
     },
     {
-        "haplogroup": "L0a\"m",
-        "parent": "L0a\"m^",
-        "note": "",
-        "age": -95158
-    },
-    {
         "haplogroup": "L3'4'6",
         "parent": "L2'3'4'6",
         "note": "",
@@ -84,22 +72,10 @@
         "age": -84129
     },
     {
-        "haplogroup": "L0a'b'g'l'm",
-        "parent": "L0a\"m",
-        "note": "",
-        "age": -76632
-    },
-    {
         "haplogroup": "L3'4",
         "parent": "L3'4'6",
         "note": "",
         "age": -74172
-    },
-    {
-        "haplogroup": "L0a'g'l'm",
-        "parent": "L0a'b'g'l'm",
-        "note": "",
-        "age": -69036
     },
     {
         "haplogroup": "L4",
@@ -198,12 +174,6 @@
         "age": -47532
     },
     {
-        "haplogroup": "L0a",
-        "parent": "L0a'g'l'm",
-        "note": "",
-        "age": -46909
-    },
-    {
         "haplogroup": "B",
         "parent": "R24'34'B",
         "note": "",
@@ -286,12 +256,6 @@
         "parent": "N1",
         "note": "",
         "age": -41460
-    },
-    {
-        "haplogroup": "L0a1'4'5'7'8",
-        "parent": "L0a",
-        "note": "",
-        "age": -39614
     },
     {
         "haplogroup": "U8b^",
@@ -456,12 +420,6 @@
         "age": -24060
     },
     {
-        "haplogroup": "L0a1",
-        "parent": "L0a1'4'5'7'8",
-        "note": "",
-        "age": -23988
-    },
-    {
         "haplogroup": "U3b'd'f",
         "parent": "U3",
         "note": "",
@@ -498,12 +456,6 @@
         "age": -21732
     },
     {
-        "haplogroup": "L0a1c",
-        "parent": "L0a1",
-        "note": "",
-        "age": -21058
-    },
-    {
         "haplogroup": "Z",
         "parent": "CZ",
         "note": "",
@@ -534,12 +486,6 @@
         "age": -20034
     },
     {
-        "haplogroup": "D4",
-        "parent": "D",
-        "note": "",
-        "age": -19711
-    },
-    {
         "haplogroup": "J2a1",
         "parent": "J2a",
         "note": "",
@@ -568,18 +514,6 @@
         "parent": "J1",
         "note": "",
         "age": -17701
-    },
-    {
-        "haplogroup": "D4a'aa'at'au",
-        "parent": "D4",
-        "note": "",
-        "age": -17609
-    },
-    {
-        "haplogroup": "D4a'aa",
-        "parent": "D4a'aa'at'au",
-        "note": "",
-        "age": -17579
     },
     {
         "haplogroup": "U1a1",
@@ -682,12 +616,6 @@
         "parent": "N1a1a",
         "note": "",
         "age": -13342
-    },
-    {
-        "haplogroup": "D4a",
-        "parent": "D4a'aa",
-        "note": "",
-        "age": -13189
     },
     {
         "haplogroup": "U5a2a'f'i'j'l",
@@ -822,12 +750,6 @@
         "age": -10555
     },
     {
-        "haplogroup": "D4a1\"22",
-        "parent": "D4a",
-        "note": "",
-        "age": -10395
-    },
-    {
         "haplogroup": "T1a",
         "parent": "T1a'b",
         "note": "",
@@ -844,12 +766,6 @@
         "parent": "R0",
         "note": "",
         "age": -10069
-    },
-    {
-        "haplogroup": "L0a1c1^",
-        "parent": "L0a1c",
-        "note": "",
-        "age": -9926
     },
     {
         "haplogroup": "U3b3",
@@ -1590,18 +1506,6 @@
         "age": -4386
     },
     {
-        "haplogroup": "D4a1",
-        "parent": "D4a1\"22",
-        "note": "",
-        "age": -4333
-    },
-    {
-        "haplogroup": "D4a1e",
-        "parent": "D4a1",
-        "note": "",
-        "age": -4303
-    },
-    {
         "haplogroup": "U3b1b^",
         "parent": "U3b1",
         "note": "",
@@ -2074,12 +1978,6 @@
         "parent": "U4b1a2'7",
         "note": "",
         "age": -2421
-    },
-    {
-        "haplogroup": "D4a1e1^",
-        "parent": "D4a1e",
-        "note": "",
-        "age": -2389
     },
     {
         "haplogroup": "X2q5a",
@@ -2980,12 +2878,6 @@
         "parent": "J1c14^",
         "note": "",
         "age": 60
-    },
-    {
-        "haplogroup": "D4a1e1",
-        "parent": "D4a1e1^",
-        "note": "",
-        "age": 63
     },
     {
         "haplogroup": "H2a2a1a3",
